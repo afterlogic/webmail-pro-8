@@ -22,27 +22,27 @@ During installation process you will need:
     php composer.phar install
     ```
 
-  **NB:** It is strongly advised to run composer as non-root user. Otherwise, third-party scripts will be run with root permissions and composer issues a warning that it's not safe. We recommend running the script as the same user web server runs under.
+    **NB:** It is strongly advised to run composer as non-root user. Otherwise, third-party scripts will be run with root permissions and composer issues a warning that it's not safe. We recommend running the script as the same user web server runs under.
 
 5. Next, you need to build static files for current module set.
 
-  First of all, install all npm modules via
-  ```bash
-  npm install
-  ```
-  and install gulp-cli module globaly 
-  ```bash
-  npm install --global gulp-cli
-  ```
+      First of all, install all npm modules via
+      ```bash
+      npm install
+      ```
+      and install gulp-cli module globaly 
+      ```bash
+      npm install --global gulp-cli
+      ```
 
 6. Now you can build static files
     ```bash
     gulp styles --themes Default,Funny
     ```
 
-  ```bash
-  gulp js:min
-  ```
+      ```bash
+      gulp js:min
+      ```
   
 7. Now you are ready to open a URL pointing to the installation directory.
 
