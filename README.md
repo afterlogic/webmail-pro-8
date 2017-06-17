@@ -44,9 +44,9 @@ During installation process you will need:
       gulp js:min
       ```
   
-7. Now you are ready to open a URL pointing to the installation directory.
+7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
 
-Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/aurora-files/configuration).
+8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/aurora-files/configuration).
 
 **IMPORTANT:**
 
