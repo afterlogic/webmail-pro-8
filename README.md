@@ -3,7 +3,7 @@
 
 Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
 
-![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wml8/screen1.png)
+![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
 
 
 ## Installation instructions
