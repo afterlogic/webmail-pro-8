@@ -1,5 +1,5 @@
 # Afterlogic Webmail Pro 8 Alpha
-> Note. This a early preview of the new version of product. Although we are sure it is safe to install and run Webmail Pro 8 Alpha, we are recommended to use it only for test purpose.
+> Note. This a early preview of the new version of product. Although we are sure it is safe to install and run Webmail Pro 8 Alpha, we are recommend to use it only for test purpose.
 
 Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
 
