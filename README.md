@@ -28,7 +28,7 @@ During installation process you will need:
 
       First of all, install all npm modules via
       ```bash
-      npm install
+      npm install ./modules/CoreWebclient
       ```
       and install gulp-cli module globaly 
       ```bash
