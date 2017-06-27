@@ -40,9 +40,9 @@ During installation process you will need:
     gulp styles --themes Default,Funny
     ```
 
-      ```bash
-      gulp js:min
-      ```
+    ```bash
+    gulp js:min
+    ```
   
 7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
 
@@ -51,9 +51,9 @@ During installation process you will need:
 **IMPORTANT:**
 
 1. Make sure data directory is writable by web server. For example:
-```bash
-chown -R www-data:www-data /var/www/webmail/data
-```
+    ```bash
+    chown -R www-data:www-data /var/www/webmail/data
+    ```
 
 2. It is strongly recommended to runs the product under **https**. If you run it under **http**, the majority of features will still be available, but some functionality aspects, such as authentication with Google account, won't work.
 
