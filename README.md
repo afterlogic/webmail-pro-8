@@ -12,6 +12,8 @@ During installation process you will need:
 * [Git](https://git-scm.com/downloads)
 * [Composer](https://getcomposer.org/download/)
 * [Node.js + NPM](https://nodejs.org/en/)
+    
+    **Note!** Version of npm above 3 is required
 
 1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory `https://github.com/afterlogic/webmail-pro-8/archive/master.zip`
 
@@ -46,7 +48,7 @@ During installation process you will need:
   
 7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
 
-8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/aurora-files/configuration).
+8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-lite-8/configuring-webmail).
 
 **IMPORTANT:**
 
@@ -58,3 +60,7 @@ During installation process you will need:
 2. It is strongly recommended to runs the product under **https**. If you run it under **http**, the majority of features will still be available, but some functionality aspects, such as authentication with Google account, won't work.
 
 To enable automatic redirect from **http** to **https**, set **RedirectToHttps** to **On** in **data/settings/config.json** file.
+
+**Protecting data directory**
+
+All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-lite-8/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly. 
