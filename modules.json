@@ -15,6 +15,7 @@
 		"afterlogic/aurora-module-contacts": "dev-master",
 		"afterlogic/aurora-module-webclient-contacts": "dev-master",
 		"afterlogic/aurora-module-personal-contacts": "dev-master",
+		"afterlogic/aurora-module-team-contacts": "dev-master",
 		"afterlogic/aurora-module-core": "dev-master",
 		"afterlogic/aurora-module-webclient-core": "dev-master",
 		"afterlogic/aurora-module-dav": "dev-master",
