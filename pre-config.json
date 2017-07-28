@@ -19,6 +19,12 @@
 		},
 		"MailChangePasswordPoppassdPlugin": {
 			"Disabled": true
-		}
+		},
+		"MailAuthCpanel": {
+			"Disabled": true
+		},
+		"MailChangePasswordCpanelPlugin": {
+			"Disabled": true
+		}		
 	}
 }

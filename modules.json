@@ -58,6 +58,8 @@
 		"afterlogic/aurora-module-mail-multi-accounts-plugin": "dev-master",
 		"afterlogic/aurora-module-mail-change-password-poppassd-plugin": "dev-master",
 		"afterlogic/aurora-module-office-document-viewer": "dev-master",
-		"afterlogic/aurora-module-webclient-file-viewer-plugin": "dev-master"
+		"afterlogic/aurora-module-webclient-file-viewer-plugin": "dev-master",
+		"afterlogic/aurora-module-mail-auth-cpanel": "dev-master",
+		"afterlogic/aurora-module-mail-change-password-cpanel-plugin": "dev-master"
 	}
 }
