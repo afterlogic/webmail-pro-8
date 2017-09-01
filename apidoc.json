@@ -1,0 +1,14 @@
+{
+  "name": "Afterlogic WebMail Pro 8 Web API Reference",
+  "version": "0.1.0",
+  "description": "",
+  "url" : "https://afterlogic.com/webmail-pro-8",
+  "sampleUrl" : "https://pro8.afterlogic.com/",
+  "template": {
+	  "forceLanguage": "en"
+  },
+  "header": {
+    "title": "Overview",
+    "filename": "../../apidoc-overview.md"
+  }
+}

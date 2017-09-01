@@ -8,6 +8,7 @@
 /static
 /dev
 /system
+/docs
 /npm-debug.log
 /composer.phar
 /composer.lock

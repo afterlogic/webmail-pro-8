@@ -1,12 +1,12 @@
 ## Overview
 Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, Plesk or cPanel, with personal calendar, contacts, and mobile sync.
 
-![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
+![Afterlogic Webmail Pro 8: Message List](https://afterlogic.com/images/products/wmp8/screens/wmp8-message-list.png)
 
 ## Usefull links
-- [Afterlogic WebMail Pro 8 home page](https://afterlogic.com/webmail-pro-8) (comming soon)
-- [Live demo](https://pro8.afterlogic.com)(comming soon)
-- [Documentation](https://afterlogic.com/docs/webmail-pro-8) (comming soon)
+- [Afterlogic WebMail Pro 8 home page](https://afterlogic.com/webmail-pro-8)
+- [Live demo](https://pro8.afterlogic.com)
+- [Documentation](https://afterlogic.com/docs/webmail-pro-8)
 - [Github repository](https://github.com/afterlogic/webmail-pro-8)
 - [Central issue tracker for the Aurora producs family](https://github.com/afterlogic/aurora-platform/issues)
 
