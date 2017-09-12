@@ -37,7 +37,7 @@
 		"afterlogic/aurora-module-mail": "0.6.x",
 		"afterlogic/aurora-module-licensing": "0.6.x",
 		"afterlogic/aurora-module-webclient-licensing": "0.6.x",
-		"afterlogic/aurora-module-webclient-trial": "0.6.x",
+		"afterlogic/aurora-module-licensing-trial": "0.6.x",
 		"afterlogic/aurora-module-webclient-mail-sensitivity-plugin": "0.6.x",
 		"afterlogic/aurora-module-webclient-mail": "0.6.x",
 		"afterlogic/aurora-module-mobile-webclient-mail": "0.6.x",
