@@ -65,6 +65,8 @@
 		"afterlogic/aurora-module-mail-change-password-poppassd-plugin": "0.6.x",
 		"afterlogic/aurora-module-office-document-viewer": "0.6.x",
 		"afterlogic/aurora-module-mail-auth-cpanel": "0.6.x",
-		"afterlogic/aurora-module-mail-change-password-cpanel-plugin": "0.6.x"
+		"afterlogic/aurora-module-mail-change-password-cpanel-plugin": "0.6.x",
+		
+		"afterlogic/aurora-module-webclient-external-clients-login-form": "0.6.x"
 	}
 }
