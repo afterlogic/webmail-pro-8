@@ -27,6 +27,9 @@
 		"MailChangePasswordCpanelPlugin": {
 			"Disabled": true
 		},
+		"Files": {
+			"EnableCorporate": false
+		},
 		"LicensingTrial": {
 			"RemoteHost": "https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8&format=json"
 		}
