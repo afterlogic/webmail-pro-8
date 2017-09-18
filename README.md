@@ -1,7 +1,9 @@
 # Afterlogic Webmail Pro 8 Alpha
-> Note. This a early preview of the new version of product. Although we are sure it is safe to install and run Webmail Pro 8 Alpha, we are recommend to use it only for test purpose.
-
 Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
+
+- For more informaition please visit WebMail Pro [home page](https://afterlogic.com/webmail-pro-8).
+- Look at WebMail Pro 8 [live demo](https://pro8.afterlogic.com).
+- [Central issue tracker for the Aurora producs family](https://github.com/afterlogic/aurora-platform/issues)
 
 ![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
 
@@ -39,7 +41,7 @@ During installation process you will need:
 
 6. Now you can build static files
     ```bash
-    gulp styles --themes Default,Funny
+    gulp styles --themes Default,DeepForest,Funny
     ```
 
     ```bash
@@ -48,7 +50,7 @@ During installation process you will need:
   
 7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
 
-8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-lite-8/configuring-webmail).
+8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail).
 
 **IMPORTANT:**
 
@@ -63,7 +65,7 @@ To enable automatic redirect from **http** to **https**, set **RedirectToHttps**
 
 **Protecting data directory**
 
-All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-lite-8/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly. 
+All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-pro-8/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly. 
 
 # Licensing
 This product is licensed under AfterLogic Software License. The modules and other packages included in this product as dependencies are licensed under their own licenses.
