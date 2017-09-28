@@ -15,6 +15,9 @@
 			"AllowFetchers": false,
 			"AllowNewUsersRegister": true
 		},
+		"ChangePasswordWebclient": {
+			"Disabled": true
+		},
 		"OAuthIntegratorWebclient": {
 			"AllowNewUsersRegister": false
 		},
