@@ -48,6 +48,7 @@
 		"afterlogic/aurora-module-webclient-mail-zip-plugin": "0.6.x",
 		"afterlogic/aurora-module-mail-save-attachments-to-files-plugin": "0.6.x",
 		"afterlogic/aurora-module-mail-save-message-as-pdf-plugin": "0.6.x",
+		"afterlogic/aurora-module-mail-notes-plugin": "0.6.x",
 		"afterlogic/aurora-module-webclient-invitation-link": "0.6.x",
 		"afterlogic/aurora-module-min": "0.6.x",
 		"afterlogic/aurora-module-mobile-sync": "0.6.x",
