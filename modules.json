@@ -31,6 +31,7 @@
 		"afterlogic/aurora-module-googledrive": "0.6.x",
 		"afterlogic/aurora-module-files": "0.6.x",
 		"afterlogic/aurora-module-webclient-files": "0.6.x",
+		"afterlogic/aurora-module-mobile-webclient-files": "0.6.x",
 		"afterlogic/aurora-module-webclient-files-tableview-plugin": "0.6.x",
 		"afterlogic/aurora-module-webclient-files-cut-copy-paste-plugin": "0.6.x",
 		"afterlogic/aurora-module-webclient-file-viewer-plugin": "0.6.x",
