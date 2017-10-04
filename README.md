@@ -17,7 +17,7 @@ During installation process you will need:
     
     **Note!** Version of npm above 3 is required
 
-1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory (currently it's version 0.6.1)  `https://github.com/afterlogic/webmail-pro-8/archive/0.6.1.zip`
+1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory (currently it's version 0.6.2)  `https://github.com/afterlogic/webmail-pro-8/archive/0.6.2.zip`
 
 3. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
