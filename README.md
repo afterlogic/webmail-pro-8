@@ -1,11 +1,11 @@
-# Afterlogic WebMail Pro 8 Alpha
-Afterlogic WebMail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
+# Afterlogic Webmail Pro 8
+Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
 
-- For more information, please visit WebMail Pro [home page](https://afterlogic.com/webmail-pro-8).
-- You can check WebMail Pro 8 [live demo](https://pro8.afterlogic.com).
+- For more information, please visit Webmail Pro [home page](https://afterlogic.com/webmail-pro-8).
+- You can check Webmail Pro 8 [live demo](https://pro8.afterlogic.com).
 - [Central issue tracker for the Aurora products family](https://github.com/afterlogic/aurora-platform/issues)
 
-![Afterlogic WebMail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
+![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
 
 
 ## Installation instructions
@@ -17,7 +17,7 @@ During installation process you will need:
     
     **Note!** npm 3.0 or later is required
 
-1. Download and unpack the latest version of WebMail Pro 8 into your installation root directory (it's version 0.6.2 at the moment of writing) `https://github.com/afterlogic/webmail-pro-8/archive/0.6.2.zip`
+1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory (it's version 0.6.2 at the moment of writing) `https://github.com/afterlogic/webmail-pro-8/archive/0.6.2.zip`
 
 3. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
@@ -61,7 +61,7 @@ During installation process you will need:
 
 2. It is strongly recommended to runs the product via **https**. If you run it via **http**, the majority of features will still be available, but some functionality aspects, such as authentication with Google account, won't work.
 
-To enable automatic redirect from **http** to **https**, set **RedirectToHttps** to **On** in **data/settings/config.json** file.
+To enable automatic redirect from **http** to **https**, set **RedirectToHttps** to **true** in **data/settings/config.json** file.
 
 **Protecting data directory**
 
