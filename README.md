@@ -1,11 +1,11 @@
-# Afterlogic Webmail Pro 8 Alpha
-Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
+# Afterlogic WebMail Pro 8 Alpha
+Afterlogic WebMail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
 
-- For more informaition please visit WebMail Pro [home page](https://afterlogic.com/webmail-pro-8).
-- Look at WebMail Pro 8 [live demo](https://pro8.afterlogic.com).
-- [Central issue tracker for the Aurora producs family](https://github.com/afterlogic/aurora-platform/issues)
+- For more information, please visit WebMail Pro [home page](https://afterlogic.com/webmail-pro-8).
+- You can check WebMail Pro 8 [live demo](https://pro8.afterlogic.com).
+- [Central issue tracker for the Aurora products family](https://github.com/afterlogic/aurora-platform/issues)
 
-![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
+![Afterlogic WebMail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
 
 
 ## Installation instructions
@@ -15,20 +15,20 @@ During installation process you will need:
 * [Composer](https://getcomposer.org/download/)
 * [Node.js + NPM](https://nodejs.org/en/)
     
-    **Note!** Version of npm above 3 is required
+    **Note!** npm 3.0 or later is required
 
-1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory (currently it's version 0.6.2)  `https://github.com/afterlogic/webmail-pro-8/archive/0.6.2.zip`
+1. Download and unpack the latest version of WebMail Pro 8 into your installation root directory (it's version 0.6.2 at the moment of writing) `https://github.com/afterlogic/webmail-pro-8/archive/0.6.2.zip`
 
 3. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
-4. Run composer installation process by running the following from command line:
+4. Start the composer installation process by running the following from the command line:
     ```bash
     php composer.phar install
     ```
 
-    **NB:** It is strongly advised to run composer as non-root user. Otherwise, third-party scripts will be run with root permissions and composer issues a warning that it's not safe. We recommend running the script as the same user web server runs under.
+    **NB:** It is strongly advised to run composer as non-root user. Otherwise, third-party scripts will be run with root permissions and composer issues a warning that it's not safe. We recommend running the script under the same user web server runs under.
 
-5. Next, you need to build static files for current module set.
+5. Next, you need to build static files for the current module set.
 
       First of all, install all npm modules via
       ```bash
@@ -54,18 +54,18 @@ During installation process you will need:
 
 **IMPORTANT:**
 
-1. Make sure data directory is writable by web server. For example:
+1. Make sure data directory is writable by the web server. For example:
     ```bash
     chown -R www-data:www-data /var/www/webmail/data
     ```
 
-2. It is strongly recommended to runs the product under **https**. If you run it under **http**, the majority of features will still be available, but some functionality aspects, such as authentication with Google account, won't work.
+2. It is strongly recommended to runs the product via **https**. If you run it via **http**, the majority of features will still be available, but some functionality aspects, such as authentication with Google account, won't work.
 
 To enable automatic redirect from **http** to **https**, set **RedirectToHttps** to **On** in **data/settings/config.json** file.
 
 **Protecting data directory**
 
-All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-pro-8/security/protecting-data-directory) to make sure that users cannot access that directory over the Internet directly. 
+All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-pro-8/security/protecting-data-directory) to make sure that nobody can access that directory over the Internet directly. 
 
 # Licensing
 This product is licensed under AfterLogic Software License. The modules and other packages included in this product as dependencies are licensed under their own licenses.
