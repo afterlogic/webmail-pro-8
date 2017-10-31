@@ -14,6 +14,8 @@ script:
 - chmod +x ./build.sh
 - ./build.sh $PRODUCT_NAME.zip
 after_success: curl --ftp-create-dirs -T $PRODUCT_NAME.zip -u $FTP_USER:$FTP_PASSWORD ftp://afterlogic.com/
+deploy:
+  skip_cleanup: true
 env:
   global:
   - PRODUCT_NAME=webmail-pro-8
