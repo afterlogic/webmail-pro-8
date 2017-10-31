@@ -1,0 +1,21 @@
+dist: trusty
+sudo: false
+language: php
+php:
+- '5.5'
+services:
+- mysql
+install:
+- mysql -e 'CREATE DATABASE aurora;'
+- composer install
+- npm install -g newman
+script:
+- php ./travis.php
+- chmod +x ./build.sh
+- ./build.sh $PRODUCT_NAME.zip
+after_success: curl --ftp-create-dirs -T $PRODUCT_NAME.zip -u $FTP_USER:$FTP_PASSWORD ftp://afterlogic.com/
+env:
+  global:
+  - PRODUCT_NAME=webmail-pro-8
+  - secure: D4jr/x8ynLhiT0rAEqOX+0TLCisnVb1wPcPtvOMRiZo1rhM+NTZynSwq+zG/aXkVXfX3Y10AIUy7qnze/mlWbsF426nBM5DaWDQCj87UJ/6qjc8hfXk53F4DkrgstIoKsPF+YXhPAe66ECi6NzHtlEX3SUzDU4m9ghJCR1E3CHIJeg4y55nlsOHV6+qKJvd2dKxlluEaNFRwbU0e7mRdGmA7oNN/itPUn7pKCIhmz1GdlB8AisW5y474yeiK4ki7A+xSrPsV7apal4Q839IDo+TA7zseU6Gnt58uXuI0+wDtSTZpQqpWid+1mdQE6sXq1q9mzxqxRxdU0o16VSeUmg6uIrv42Apr7vWv8/1JGcTgRBpjCSLUe8an8p+4uftf4OuClLDjQapD9o6LzZ5HGU8AP+Hgj+h17cja5MRbsP8iDdoBxIkoHEUImLs45Ahy+fVWLNvBQO3N1OL4ZI6SGtFsH27J1/ThLuKhF4lOKX2DHCPwLqKSxNPDcRYOKJwTqupeW7tU0UqdNGFGz8VAkHDAQF0v7Fu35Uc9OnaT13eq6d4Q6T1i0cQqDtcNNh8khUxfDDHKbc4SgL/VwggWGVMJZ6ZHwnd/WSL+ug/8+6GxBYgfjFvOA0vV14KN1eu7zAP5f9P4Lng/YfWdB/2k8s2L5l7Gl4gqWipMJujn938=
+  - secure: D63SzknFXlnYwp190GsGLGAK6sluLkVAJ8KYSaaqR6ZjgztKTBUAUJgyu+hYqq381h26DSN9/69txIGTYjWlFBalPMLbz5Gn/J5quMk6wjVOj5NBd/OCE/mlXf+sLrmiwJnHnRnAZc7N2Y9G0+OAdnN/aQE2d0ohwnoyqZ06jhrXYRCNGMgJXwOf4Npib+X0rJao8F8wL+wSXE6MsET1W1knh/OzkdAvtcfJ/7HGq+F73jtZsj//7n01FgGMKDsJhv0HYDQA+YZ4aFp+X0qfeszYfRrUaFLT3abOMwGbh/Az45sxDtBt9fQYKgNQ5crS8fZMXkkUjzRQIFwyr+QVLoAd8SzIT8WxUrVhUPLmBU0RXpoJVZXf9w3/ViEzR6ggouP6d8yJyFsmLdFinDOCYd0XXEiFBQNlK0bVLnDueJSGnYLMmeQDULMGkhxu0wIrRIHjKnCs0oTSuajxOQkS4HBS5OR+nW7R/Rh2eRbHEyRz9kA+1J/Wjb33swvsXUXzWwGCHJ6VHhNFX0vgeYAh3s13Ds98Sc+gONPAR2kWoxo2dh+gnZKrgw01Yhm/1g/5sv7bdUcCUCCBfI7IfgzNGuZPFAK1i0kZTLQad0vj1K1xEZ/jloLymGMWd7bljsbPG8cGjciF/0fimmIGqCgKE1sn9byxUpd9QxL8Cvyrr+M=
