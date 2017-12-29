@@ -41,6 +41,9 @@
 		},
 		"CoreParanoidEncryptionWebclientPlugin": {
 			"Disabled": true
+		},
+		"Mail": {
+			"AutocreateMailAccountOnNewUserFirstLogin": true
 		}
 	}
 }
