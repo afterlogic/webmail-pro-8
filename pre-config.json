@@ -13,7 +13,8 @@
 		"Mail": {
 			"AllowChangeEmailSettings": false,
 			"AllowFetchers": false,
-			"AllowNewUsersRegister": true
+			"AllowNewUsersRegister": true,
+			"AutocreateMailAccountOnNewUserFirstLogin": true
 		},
 		"ChangePasswordWebclient": {
 			"Disabled": true
@@ -41,9 +42,6 @@
 		},
 		"CoreParanoidEncryptionWebclientPlugin": {
 			"Disabled": true
-		},
-		"Mail": {
-			"AutocreateMailAccountOnNewUserFirstLogin": true
 		}
 	}
 }
