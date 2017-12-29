@@ -13,7 +13,8 @@
 		"Mail": {
 			"AllowChangeEmailSettings": false,
 			"AllowFetchers": false,
-			"AllowNewUsersRegister": true
+			"AllowNewUsersRegister": true,
+			"AutocreateMailAccountOnNewUserFirstLogin": true
 		},
 		"ChangePasswordWebclient": {
 			"Disabled": true
@@ -38,6 +39,9 @@
 		},
 		"LicensingTrial": {
 			"RemoteHost": "https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8&format=json"
+		},
+		"CoreParanoidEncryptionWebclientPlugin": {
+			"Disabled": true
 		}
 	}
 }
