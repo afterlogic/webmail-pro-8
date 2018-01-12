@@ -42,6 +42,9 @@
 		},
 		"CoreParanoidEncryptionWebclientPlugin": {
 			"Disabled": true
+		},
+		"StandardLoginFormWebclient": {
+			"UseDropdownLanguagesView": true
 		}
 	}
 }
