@@ -58,7 +58,6 @@
 		"afterlogic/aurora-module-webclient-openpgp": "dev-master",
 		"afterlogic/aurora-module-webclient-session-timeout": "dev-master",
 		"afterlogic/aurora-module-webclient-settings": "dev-master",
-		"afterlogic/aurora-module-webclient-standard-auth": "dev-master",
 		"afterlogic/aurora-module-webclient-standard-login-form": "dev-master",
 		"afterlogic/aurora-module-mobile-webclient-standard-login-form": "dev-master",
 		"afterlogic/aurora-module-webclient-standard-register-form": "dev-master",
