@@ -58,7 +58,6 @@
 		"afterlogic/aurora-module-webclient-openpgp": "0.6.x",
 		"afterlogic/aurora-module-webclient-session-timeout": "0.6.x",
 		"afterlogic/aurora-module-webclient-settings": "0.6.x",
-		"afterlogic/aurora-module-webclient-standard-auth": "0.6.x",
 		"afterlogic/aurora-module-webclient-standard-login-form": "0.6.x",
 		"afterlogic/aurora-module-mobile-webclient-standard-login-form": "0.6.x",
 		"afterlogic/aurora-module-webclient-standard-register-form": "0.6.x",
