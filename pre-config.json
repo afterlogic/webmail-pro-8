@@ -11,7 +11,7 @@
 			"Scopes": "auth"
 		},
 		"Mail": {
-			"AllowChangeEmailSettings": false,
+			"AllowDefaultAccountForUser": true,
 			"AllowFetchers": false,
 			"AllowNewUsersRegister": true,
 			"AutocreateMailAccountOnNewUserFirstLogin": true
@@ -30,9 +30,6 @@
 		},
 		"MailChangePasswordCpanelPlugin": {
 			"Disabled": true
-		},
-		"Files": {
-			"EnableCorporate": false
 		},
 		"TeamContacts": {
 			"Disabled": true
