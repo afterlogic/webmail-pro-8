@@ -30,6 +30,7 @@
 		"afterlogic/aurora-module-google": "0.8.x",
 		"afterlogic/aurora-module-googledrive": "0.8.x",
 		"afterlogic/aurora-module-files": "0.8.x",
+		"afterlogic/aurora-module-personalfiles": "0.8.x",
 		"afterlogic/aurora-module-webclient-files": "0.8.x",
 		"afterlogic/aurora-module-mobile-webclient-files": "0.8.x",
 		"afterlogic/aurora-module-webclient-files-tableview-plugin": "0.8.x",
