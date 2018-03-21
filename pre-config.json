@@ -19,6 +19,9 @@
 		"ChangePasswordWebclient": {
 			"Disabled": true
 		},
+		"Calendar": {
+			"AllowTasks": true
+		},
 		"OAuthIntegratorWebclient": {
 			"AllowNewUsersRegister": false
 		},
