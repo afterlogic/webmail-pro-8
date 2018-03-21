@@ -34,11 +34,12 @@
 		"TeamContacts": {
 			"Disabled": true
 		},
-		"LicensingTrial": {
-			"RemoteHost": "https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8&format=json"
-		},
 		"CoreParanoidEncryptionWebclientPlugin": {
 			"Disabled": true
+		},
+		"LicensingWebclient": {
+			"TrialKeyLink": "<a href=\"https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8\" target=\"_blank\">https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8</a>",
+			"PermanentKeyLink": "<a href=\"https://afterlogic.com/purchase/webmail-pro\" target=\"_blank\">https://afterlogic.com/purchase/webmail-pro</a>"
 		},
 		"StandardLoginFormWebclient": {
 			"UseDropdownLanguagesView": true
