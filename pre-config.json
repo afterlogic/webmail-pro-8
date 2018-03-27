@@ -19,6 +19,9 @@
 		"ChangePasswordWebclient": {
 			"Disabled": true
 		},
+		"FilesWebclient": {
+			"ShowFilesApps": false
+		},
 		"Calendar": {
 			"AllowTasks": true
 		},
