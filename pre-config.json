@@ -20,6 +20,7 @@
 			"Disabled": true
 		},
 		"FilesWebclient": {
+			"ShowCommonSettings": true,
 			"ShowFilesApps": false
 		},
 		"Calendar": {
