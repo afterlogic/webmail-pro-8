@@ -5,7 +5,8 @@
 		"CoreWebclient": {
 			"HeaderModulesOrder": ["mail", "contacts"],
 			"EntryModule": "mail",
-			"AllowMobile": true
+			"AllowMobile": true,
+			"ThemeList": ["Default","DeepForest","Funny"]
 		},
 		"DropboxAuthWebclient": {
 			"Scopes": "auth"
