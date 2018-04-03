@@ -16,7 +16,6 @@
 		"afterlogic/aurora-module-webclient-contacts": "0.8.x",
 		"afterlogic/aurora-module-mobile-webclient-contacts": "0.8.x",
 		"afterlogic/aurora-module-personal-contacts": "0.8.x",
-		"afterlogic/aurora-module-team-contacts": "0.8.x",
 		"afterlogic/aurora-module-core": "0.8.x",
 		"afterlogic/aurora-module-webclient-core": "0.8.x",
 		"afterlogic/aurora-module-mobile-webclient-core": "0.8.x",

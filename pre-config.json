@@ -39,9 +39,6 @@
 		"MailChangePasswordCpanelPlugin": {
 			"Disabled": true
 		},
-		"TeamContacts": {
-			"Disabled": true
-		},
 		"CoreParanoidEncryptionWebclientPlugin": {
 			"Disabled": true
 		},
