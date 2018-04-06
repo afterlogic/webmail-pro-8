@@ -3,8 +3,8 @@ Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, w
 
 Webmail Pro 8 includes Paranoid Encryption module which provides strong AES-256 browser-based encryption. When [enabled](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail/enabling-paranoid-encryption), encryption process occurs right in the browser, file content is transmitted to the server in encrypted form only, encryption keys are never transmitted to the server at all. Thus, even if the entire data from the server was stolen, your encrypted data is still safe: any data on the server cannot help decrypt encrypted files without the keys.
 
-- For more information, please visit Webmail Pro [home page](https://afterlogic.com/webmail-pro-8).
-- You can check Webmail Pro 8 [live demo](https://pro8.afterlogic.com).
+- For more information, please visit Webmail Pro [home page](https://afterlogic.com/webmail-client).
+- You can check Webmail Pro 8 [live demo](https://webmail.afterlogic.com).
 - [Central issue tracker for the Aurora products family](https://github.com/afterlogic/aurora-platform/issues)
 
 ![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
@@ -19,7 +19,7 @@ During installation process you will need:
     
     **Note!** npm 3.0 or later is required
 
-1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory (it's version 0.6.2 at the moment of writing) `https://github.com/afterlogic/webmail-pro-8/archive/0.6.2.zip`
+1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory `https://github.com/afterlogic/webmail-pro-8/archive/latest.zip`
 
 3. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
