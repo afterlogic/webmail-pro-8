@@ -52,10 +52,8 @@ mkdir -p ./modules/LicensingTrial;
 
 if [ "$TASK" = "custom" ]; then
 	echo ${CUSTOM_ACTION}
-	echo ${CUSTOM_ACTION1}
 	
 	eval ${CUSTOM_ACTION}
-	eval ${CUSTOM_ACTION1}
 
 	PRODUCT_SUFFIX="test"
 
