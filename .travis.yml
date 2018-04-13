@@ -15,6 +15,7 @@ script:
 - ./travis.sh -t build
 after_success: 
 - ./travis.sh -t upload
+- ./travis.sh -t custom
 env:
   global:
   - PRODUCT_NAME=webmail-pro
