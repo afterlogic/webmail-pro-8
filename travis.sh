@@ -56,9 +56,13 @@ if [ "$TASK" = "custom" ]; then
 	PRODUCT_SUFFIX="test"
 
 	PRODUCT_VERSION=`cat VERSION`
-	echo UPLOAD ZIP FILE  = "${PRODUCT_NAME}_${PRODUCT_VERSION}_${PRODUCT_SUFFIX}"
 	
-	curl --ftp-create-dirs -T ${PRODUCT_NAME}_${PRODUCT_VERSION}_${PRODUCT_SUFFIX} -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
+	ARCHIVE_NAME=${PRODUCT_NAME}_${PRODUCT_VERSION}_${PRODUCT_SUFFIX}.zip
+	echo CREATE ZIP FILE  = "${ARCHIVE_NAME}"
+	zip -r ${ARCHIVE_NAME} data/settings/modules modules static system vendor dev ".htaccess" dav.php index.php LICENSE VERSION README.md favicon.ico robots.txt composer.json composer.lock modules.json gulpfile.js pre-config.json -x **/*.bak *.git*
+	
+	echo UPLOAD ZIP FILE  = "${ARCHIVE_NAME}"
+	curl --ftp-create-dirs -T ${ARCHIVE_NAME} -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
 fi
 
 
