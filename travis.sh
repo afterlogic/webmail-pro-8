@@ -47,10 +47,8 @@ if [ "$TASK" = "upload" ]; then
 	curl --ftp-create-dirs -T ${PRODUCT_NAME}_${PRODUCT_VERSION}.zip -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
 fi
 
-CUSTOM_ACTION=`mkdir -p ./modules/LicensingTrial;`
-mkdir -p ./modules/LicensingTrial;
-
 if [ "$TASK" = "custom" ]; then
+
 	echo ${CUSTOM_ACTION}
 	
 	eval ${CUSTOM_ACTION}
