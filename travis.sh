@@ -58,7 +58,7 @@ if [ "$TASK" = "custom" ]; then
 	PRODUCT_VERSION=`cat VERSION`
 	echo UPLOAD ZIP FILE  = "${PRODUCT_NAME}_${PRODUCT_VERSION}_${PRODUCT_SUFFIX}"
 	
-	#curl --ftp-create-dirs -T ${PRODUCT_NAME}_${PRODUCT_VERSION}_${PRODUCT_SUFFIX} -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
+	curl --ftp-create-dirs -T ${PRODUCT_NAME}_${PRODUCT_VERSION}_${PRODUCT_SUFFIX} -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
 fi
 
 
