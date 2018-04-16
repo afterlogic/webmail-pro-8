@@ -71,13 +71,6 @@
 		"afterlogic/aurora-module-mail-change-password-cpanel-plugin": "0.8.x",
 		"afterlogic/aurora-module-tasks": "0.8.x",
 		
-		"afterlogic/aurora-module-webclient-external-clients-login-form": "0.8.x",
-		
-		"afterlogic/aurora-module-mail-change-password-hmailserver-plugin": "0.8.x",
-		"afterlogic/aurora-module-mail-change-password-iredmail-plugin": "0.8.x",
-		"afterlogic/aurora-module-mail-global-signature-plugin": "0.8.x",
-		"afterlogic/aurora-module-mail-hidden-recipient-plugin": "0.8.x",
-		"afterlogic/aurora-module-mail-bcc-to-sender-plugin": "0.8.x"
-		
+		"afterlogic/aurora-module-webclient-external-clients-login-form": "0.8.x"
 	}
 }
