@@ -51,6 +51,12 @@
 		},
 		"StandardLoginFormWebclient": {
 			"UseDropdownLanguagesView": true
+		},
+		"Autodiscover": {
+			"Disabled": true
+		},
+		"ActiveServer": {
+			"Disabled": true
 		}
 	}
 }
