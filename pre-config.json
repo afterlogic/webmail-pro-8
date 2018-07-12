@@ -49,7 +49,11 @@
 			"PermanentKeyLink": "<a href=\"https://afterlogic.com/purchase/webmail-pro\" target=\"_blank\">https://afterlogic.com/purchase/webmail-pro</a>"
 		},
 		"StandardLoginFormWebclient": {
-			"UseDropdownLanguagesView": true
+			"UseDropdownLanguagesView": true,
+			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.com\/webmail-client\" target=\"_blank\">Afterlogic WebMail Pro</a>"
+		},
+		"StandardRegisterFormWebclient": {
+			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.com\/webmail-client\" target=\"_blank\">Afterlogic WebMail Pro</a>"
 		},
 		"Autodiscover": {
 			"Disabled": true
