@@ -16,7 +16,6 @@
 		},
 		"Mail": {
 			"AllowDefaultAccountForUser": true,
-			"AllowFetchers": false,
 			"AllowNewUsersRegister": true,
 			"AutocreateMailAccountOnNewUserFirstLogin": true
 		},
