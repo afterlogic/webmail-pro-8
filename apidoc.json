@@ -1,9 +1,9 @@
 {
-  "name": "Afterlogic WebMail Pro 8 Web API Reference",
+  "name": "Afterlogic WebMail Pro Web API Reference",
   "version": "0.1.0",
   "description": "",
-  "url" : "https://afterlogic.com/webmail-pro-8",
-  "sampleUrl" : "https://pro8.afterlogic.com/",
+  "url" : "https://afterlogic.com/webmail-client",
+  "sampleUrl" : "https://webmail.afterlogic.com/",
   "template": {
 	  "forceLanguage": "en"
   },

@@ -1,13 +1,13 @@
-# Afterlogic Webmail Pro 8
-Afterlogic Webmail Pro 8 is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
+# Afterlogic Webmail Pro
+Afterlogic Webmail Pro is a webmail front-end for your existing mail server, with personal calendar, contacts, and mobile sync.
 
-Webmail Pro 8 includes Paranoid Encryption module which provides strong AES-256 browser-based encryption. When [enabled](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail/enabling-paranoid-encryption), encryption process occurs right in the browser, file content is transmitted to the server in encrypted form only, encryption keys are never transmitted to the server at all. Thus, even if the entire data from the server was stolen, your encrypted data is still safe: any data on the server cannot help decrypt encrypted files without the keys.
+Webmail Pro includes Paranoid Encryption module which provides strong AES-256 browser-based encryption. When [enabled](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail/enabling-paranoid-encryption), encryption process occurs right in the browser, file content is transmitted to the server in encrypted form only, encryption keys are never transmitted to the server at all. Thus, even if the entire data from the server was stolen, your encrypted data is still safe: any data on the server cannot help decrypt encrypted files without the keys.
 
 - For more information, please visit Webmail Pro [home page](https://afterlogic.com/webmail-client).
-- You can check Webmail Pro 8 [live demo](https://webmail.afterlogic.com).
-- [Central issue tracker for the Aurora products family](https://github.com/afterlogic/aurora-platform/issues)
+- You can check Webmail Pro [live demo](https://webmail.afterlogic.com).
+- [Issue tracker for the Afterlogic Webmail Pro](https://github.com/afterlogic/webmail-pro-8/issues)
 
-![Afterlogic Webmail Pro 8: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
+![Afterlogic Webmail Pro: Message List](https://afterlogic.org/images/products/wmp8/screens/wmp8-message-list.png)
 
 
 ## Installation instructions
