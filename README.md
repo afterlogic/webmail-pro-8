@@ -21,16 +21,16 @@ During installation process you will need:
 
 1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory `https://github.com/afterlogic/webmail-pro-8/archive/latest.zip`
 
-3. Download `composer.phar` from `https://getcomposer.org/composer.phar`
+2. Download `composer.phar` from `https://getcomposer.org/composer.phar`
 
-4. Start the composer installation process by running the following from the command line:
+3. Start the composer installation process by running the following from the command line:
     ```bash
     php composer.phar install
     ```
 
     **NB:** It is strongly advised to run composer as non-root user. Otherwise, third-party scripts will be run with root permissions and composer issues a warning that it's not safe. We recommend running the script under the same user web server runs under.
 
-5. Next, you need to build static files for the current module set.
+4. Next, you need to build static files for the current module set.
 
       First of all, install all npm modules via
       ```bash
@@ -41,7 +41,7 @@ During installation process you will need:
       npm install --global gulp-cli
       ```
 
-6. Now you can build static files
+5. Now you can build static files
     ```bash
     gulp styles --themes Default,DeepForest,Funny
     ```
@@ -50,9 +50,9 @@ During installation process you will need:
     gulp js:min
     ```
   
-7. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
+6. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
 
-8. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail).
+7. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail).
 
 **IMPORTANT:**
 
