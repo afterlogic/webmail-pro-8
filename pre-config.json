@@ -41,6 +41,9 @@
 		"MailChangePasswordCpanelPlugin": {
 			"Disabled": true
 		},
+		"MailSaveMessageAsPdfPlugin": {
+			"Disabled": true
+		},
 		"CoreParanoidEncryptionWebclientPlugin": {
 			"Disabled": true
 		},
