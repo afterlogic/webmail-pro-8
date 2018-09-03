@@ -13,8 +13,17 @@ script:
 - php ./travis.php
 - chmod +x ./travis.sh
 - ./travis.sh -t build
+- chmod +x ./travis-plesk-builder.sh
+- ./travis-plesk-builder.sh -t build
+- ./travis-plesk-builder.sh -t log
+- ./travis-plesk-builder.sh -t zip
 after_success: 
 - ./travis.sh -t upload
+- ./travis-plesk-builder.sh -t upload
 env:
   global:
   - PRODUCT_NAME=webmail-pro
+  - PRODUCT_TITLE="Afterlogic WebMail Pro"
+  - PRODUCT_WEBSITE=https://afterlogic.com/webmail-client
+  - PRODUCT_DOWNLOAD=https://afterlogic.com/download/webmail-pro
+  - PRODUCT_ZIP_URL=https://afterlogic.com/download/webmail-pro-php.zip
