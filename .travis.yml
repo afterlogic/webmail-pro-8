@@ -23,7 +23,7 @@ after_success:
 env:
   global:
   - PRODUCT_NAME=webmail-pro
-  - PRODUCT_TITLE="Afterlogic WebMail Pro"
-  - PRODUCT_WEBSITE=https://afterlogic.com/webmail-client
-  - PRODUCT_DOWNLOAD=https://afterlogic.com/download/webmail-pro
-  - PRODUCT_ZIP_URL=https://afterlogic.com/download/webmail-pro-php.zip
+  - PLESK_PRODUCT_TITLE="WebMail Pro"
+  - PLESK_PRODUCT_FULLTITLE="Afterlogic WebMail Pro 8"
+  - PLESK_PRODUCT_WEBSITE=https://afterlogic.com/webmail-client
+  - PLESK_PRODUCT_DOWNLOAD=https://afterlogic.com/download/webmail-pro
