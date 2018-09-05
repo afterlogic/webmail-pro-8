@@ -66,11 +66,14 @@ if [ "$TASK" = "build" ]; then
 			VERDOT=$[$VERDOT+1]
 		done
 		
+		INSTALL_SIZE=$(du -sb ./template/htdocs | cut -f 1)
+		
 		# sed -i "s/%PRODUCT_FULLNAME%/$PRODUCT_FULLNAME/g" ./template/APP-META.xml
 		# sed -i "s/%PRODUCT_PACKAGE%/$PRODUCT_PACKAGE/g" ./template/APP-META.xml
 		sed -i "s/%PRODUCT_NAME%/${PRODUCT_TITLE}/g" ./template/APP-META.xml
 		sed -i "s/%PRODUCT_VERSION%/$PRODUCT_VERNUM/g" ./template/APP-META.xml
 		sed -i "s/%PRODUCT_RELEASE%/$PRODUCT_RELEASE/g" ./template/APP-META.xml
+		sed -i "s/%INSTALL_SIZE%/$INSTALL_SIZE/g" ./template/APP-META.xml
 		sed -i "s|%PRODUCT_WEBSITE%|${PRODUCT_WEBSITE}|g" ./template/APP-META.xml
 		sed -i "s|%PRODUCT_DOWNLOAD%|${PRODUCT_DOWNLOAD}|g" ./template/APP-META.xml
 fi
