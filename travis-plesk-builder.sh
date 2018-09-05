@@ -82,46 +82,46 @@ if [ "$TASK" = "xmllog" ]; then
     line=`echo $line | tr -d '\015'`
     token=`echo "$line" | awk '{print $1}' | sed "s/\[//;s/\]//"`
     [ ${#token} -gt 1 ] && {
-    [ $first_seen -gt 0 ] || echo "		</version>"
+    [ $first_seen -gt 0 ] || echo "    </version>"
     first_seen=0
-    echo "		<version version=\"$token\" release=\"1\">"
+    echo "    <version version=\"$token\" release=\"1\">"
     continue ;
     }
     [ ${#token} -gt 0 ] && {
     line=`echo "$line" | tr -d '<>&'`
-    echo "			<entry>${line}</entry>" ;
-    }    
+    echo "      <entry>${line}</entry>";
+    }
   done
 
-  [ $first_seen -gt 0 ] || echo "		</version>"
+  [ $first_seen -gt 0 ] || echo "    </version>"
 fi
 
-if [ "$TASK" = "log" ]; then	
+if [ "$TASK" = "log" ]; then
   echo GENERATE CHANGELOG
     cat ./CHANGELOG.md | ./travis-plesk-builder.sh -t xmllog > ./changelog.xml
-    
+
     sed -i -e "/%PRODUCT_CHANGELOG%/ {r ./changelog.xml
     d}" ./template/APP-META.xml
 
   echo GENERATE CHANGELOG DONE
-fi	
-	
+fi
+
 if [ "$TASK" = "zip" ]; then
-	PRODUCT_VERSION=`cat VERSION`
-	
-	echo BUILD ARCHIVE
-		cd ./template
-		zip -rq ../${PRODUCT_NAME}-plesk_${PRODUCT_VERSION}.zip .
-		
-	echo BUILD ARCHIVE DONE
+  PRODUCT_VERSION=`cat VERSION`
+
+  echo BUILD ARCHIVE
+    cd ./template
+    zip -rq ../${PRODUCT_NAME}-plesk_${PRODUCT_VERSION}.zip .
+    
+  echo BUILD ARCHIVE DONE
 fi
 
 if [ "$TASK" = "upload" ]; then
-	PRODUCT_VERSION=`cat VERSION`
+  PRODUCT_VERSION=`cat VERSION`
 
-	echo UPLOAD ZIP FILE: "${PRODUCT_NAME}-plesk_${PRODUCT_VERSION}.zip"
-	
-	curl --ftp-create-dirs -T ${PRODUCT_NAME}-plesk_${PRODUCT_VERSION}.zip -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
-	
-	echo UPLOAD DONE
+  echo UPLOAD ZIP FILE: "${PRODUCT_NAME}-plesk_${PRODUCT_VERSION}.zip"
+
+  curl --ftp-create-dirs -T ${PRODUCT_NAME}-plesk_${PRODUCT_VERSION}.zip -u ${FTP_USER}:${FTP_PASSWORD} ftp://afterlogic.com/
+
+  echo UPLOAD DONE
 fi
