@@ -7,7 +7,8 @@
 		},
 		"CoreWebclient": {
 			"HeaderModulesOrder": ["mail", "contacts"],
-			"EntryModule": "mail",
+			"DefaultAnonymScreenHash": "login",
+			"DefaultUserScreenHash": "mail",
 			"AllowMobile": true,
 			"ThemeList": ["Default","DeepForest","Funny"]
 		},
