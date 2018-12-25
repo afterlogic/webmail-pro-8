@@ -64,6 +64,9 @@
 		},
 		"ActiveServer": {
 			"Disabled": true
+		},
+		"TwoFactorAuth" {
+			"Disabled": true
 		}
 	}
 }
