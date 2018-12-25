@@ -65,7 +65,7 @@
 		"ActiveServer": {
 			"Disabled": true
 		},
-		"TwoFactorAuth" {
+		"TwoFactorAuth": {
 			"Disabled": true
 		}
 	}
