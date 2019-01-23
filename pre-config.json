@@ -67,6 +67,9 @@
 		},
 		"TwoFactorAuth": {
 			"Disabled": true
+		},
+		"CpanelIntegrator": {
+			"Disabled": true
 		}
 	}
 }

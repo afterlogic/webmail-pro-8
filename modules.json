@@ -72,6 +72,7 @@
 		"afterlogic/aurora-module-tasks": "0.9.x",
 		"afterlogic/aurora-module-calendar-meetings-plugin": "0.9.x",
 		"afterlogic/aurora-module-two-factor-auth": "0.9.x",
+		"afterlogic/aurora-module-cpanel-integrator": "0.9.x",
 		
 		"afterlogic/aurora-module-webclient-external-clients-login-form": "0.9.x",
 		"afterlogic/aurora-module-autodiscover": "0.9.x",
