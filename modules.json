@@ -74,6 +74,7 @@
 		"afterlogic/aurora-module-two-factor-auth": "0.9.x",
 		"afterlogic/aurora-module-cpanel-integrator": "0.9.x",
 		"afterlogic/aurora-module-webclient-mail-signup": "0.9.x",
+		"afterlogic/aurora-module-import-export-mail-plugin": "0.9.x",
 		
 		"afterlogic/aurora-module-webclient-external-clients-login-form": "0.9.x",
 		"afterlogic/aurora-module-autodiscover": "0.9.x",
