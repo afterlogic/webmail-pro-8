@@ -73,6 +73,9 @@
 		},
 		"MailSignup": {
 			"Disabled": true
+		},
+		"RecaptchaWebclientPlugin": {
+			"Disabled": true
 		}
 	}
 }
