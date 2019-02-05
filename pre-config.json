@@ -76,6 +76,12 @@
 		},
 		"RecaptchaWebclientPlugin": {
 			"Disabled": true
+		},
+		"SettingsMobileWebclient": {
+			"Disabled": true
+		},
+		"OpenPgpMobileWebclient": {
+			"Disabled": true
 		}
 	}
 }
