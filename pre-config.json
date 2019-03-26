@@ -39,9 +39,6 @@
 		"MailAuthCpanel": {
 			"Disabled": true
 		},
-		"MailChangePasswordCpanelPlugin": {
-			"Disabled": true
-		},
 		"MailSaveMessageAsPdfPlugin": {
 			"Disabled": true
 		},
