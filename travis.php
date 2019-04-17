@@ -5,10 +5,10 @@ $bAdminPrivileges = true;
 
 \Aurora\System\Api::Init($bAdminPrivileges);
 
-$DbHost = '127.0.0.1';
-$DbLogin = 'root';
+$DbHost = '';
+$DbLogin = '';
 $DbPassword = '';
-$DbName = 'aurora';
+$DbName = '';
 
 $oCoreDecorator = \Aurora\System\Api::GetModuleDecorator('Core');
 
