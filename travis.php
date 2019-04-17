@@ -5,8 +5,8 @@ $bAdminPrivileges = true;
 
 \Aurora\System\Api::Init($bAdminPrivileges);
 
-$DbHost = '';
-$DbLogin = '';
+$DbHost = '127.0.0.1';
+$DbLogin = 'root';
 $DbPassword = '';
 $DbName = '';
 
