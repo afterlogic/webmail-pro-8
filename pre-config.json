@@ -10,7 +10,7 @@
 			"DefaultAnonymScreenHash": "login",
 			"DefaultUserScreenHash": "mail",
 			"AllowMobile": true,
-			"ThemeList": ["Default","DeepForest","Funny"]
+			"ThemeList": ["Default", "DeepForest", "Funny", "Sand"]
 		},
 		"DropboxAuthWebclient": {
 			"Scopes": "auth"
