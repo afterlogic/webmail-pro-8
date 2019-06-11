@@ -74,6 +74,9 @@
 		"RecaptchaWebclientPlugin": {
 			"Disabled": true
 		},
+		"MailMasterPassword": {
+			"Disabled": true
+		},
 		"SettingsMobileWebclient": {
 			"Disabled": true
 		},
