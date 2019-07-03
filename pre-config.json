@@ -76,6 +76,9 @@
 		"MailSignup": {
 			"Disabled": true
 		},
+		"MailLoginFormWebclient": {
+			"Disabled": true
+		},
 		"RecaptchaWebclientPlugin": {
 			"Disabled": true
 		},
