@@ -1,4 +1,5 @@
 [8.3.3]
+[+] Ability to store AuthToken in database
 [+] Mail module authentication form added
 [+] Adding custom JS and HTML supported
 [*] Update configuration bugfix
