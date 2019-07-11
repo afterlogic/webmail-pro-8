@@ -2,6 +2,7 @@
 [+] Procedure of adding an account revised, with minimum of questions asked
 [*] Various bugfixes
 [*] Minor keyboard shortcuts improvements
+[*] IE bugfixes
 
 [8.3.3]
 [+] Ability to store AuthToken in database
