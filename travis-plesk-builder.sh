@@ -13,8 +13,8 @@
 # PRODUCT_NAME="webmail-pro"
 # PLESK_PRODUCT_TITLE="WebMail Pro"
 # PLESK_PRODUCT_FULLTITLE="Afterlogic WebMail Pro 8"
-# PLESK_PRODUCT_WEBSITE=https://afterlogic.com/webmail-client
-# PLESK_PRODUCT_DOWNLOAD=https://afterlogic.com/download/webmail-pro
+# PLESK_PRODUCT_WEBSITE=https://www.afterlogic.com/webmail-client
+# PLESK_PRODUCT_DOWNLOAD=https://www.afterlogic.com/download/webmail-pro
 
 TASK="build"
 
