@@ -58,9 +58,6 @@
 			"UseDropdownLanguagesView": true,
 			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.com\/webmail-client\" target=\"_blank\">Afterlogic WebMail Pro</a>"
 		},
-		"StandardRegisterFormWebclient": {
-			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.com\/webmail-client\" target=\"_blank\">Afterlogic WebMail Pro</a>"
-		},
 		"Autodiscover": {
 			"Disabled": true
 		},

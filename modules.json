@@ -61,8 +61,6 @@
 		"afterlogic/aurora-module-mobile-webclient-settings": "0.9.x",
 		"afterlogic/aurora-module-webclient-standard-login-form": "0.9.x",
 		"afterlogic/aurora-module-mobile-webclient-standard-login-form": "0.9.x",
-		"afterlogic/aurora-module-webclient-standard-register-form": "0.9.x",
-		"afterlogic/aurora-module-mobile-webclient-standard-register-form": "0.9.x",
 		"afterlogic/aurora-module-eav-object-viewer": "0.9.x",
 		"afterlogic/aurora-module-oembed-files": "0.9.x",
 		"afterlogic/aurora-module-files-zipfolder": "0.9.x",
