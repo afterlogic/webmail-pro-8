@@ -78,6 +78,9 @@
 			"UseDropdownLanguagesView": true,
 			"BottomInfoHtmlText": "Powered by <a href=\"https:\/\/afterlogic.com\/webmail-client\" target=\"_blank\">Afterlogic WebMail Pro</a>"
 		},
+		"MailLoginFormMobileWebclient": {
+			"Disabled": true
+		},
 		"RecaptchaWebclientPlugin": {
 			"Disabled": true
 		},
