@@ -101,6 +101,9 @@
 		},
 		"Contacts": {
 			"ImportContactsLink": "https://afterlogic.com/docs/webmail-pro-8/frequently-asked-questions/importing-contacts"
+		},
+		"S3Filestorage": {
+			"Disabled": true
 		}
 	}
 }
