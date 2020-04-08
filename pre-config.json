@@ -12,6 +12,9 @@
 			"AllowMobile": true,
 			"ThemeList": ["Default", "DeepForest", "Funny", "Sand"]
 		},
+		"SessionTimeoutWebclient": {
+			"Disabled": true
+		},
 		"DropboxAuthWebclient": {
 			"Scopes": "auth"
 		},
