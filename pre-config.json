@@ -3,6 +3,7 @@
 	},
 	"modules": {
 		"Core": {
+			"SiteName": "Afterlogic WebMail Pro PHP",
 			"ProductName": "Afterlogic WebMail Pro PHP"
 		},
 		"CoreWebclient": {
