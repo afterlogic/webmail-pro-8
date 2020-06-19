@@ -200,16 +200,16 @@
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.9.71",
+            "version": "0.9.72",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.9.71"
+                "reference": "tags/0.9.72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.9.71.zip",
-                "reference": "tags/0.9.71"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.9.72.zip",
+                "reference": "tags/0.9.72"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -219,7 +219,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2020-06-15T10:36:37+00:00"
+            "time": "2020-06-17T13:26:50+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -1332,28 +1332,29 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
-            "version": "0.9.31",
+            "version": "0.9.32",
             "source": {
                 "type": "git",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core-jscrypto-plugin",
-                "reference": "tags/0.9.31"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
+                "reference": "tags/0.9.32"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core-jscrypto-plugin/archive/0.9.31.zip",
-                "reference": "tags/0.9.31"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin/archive/0.9.32.zip",
+                "reference": "tags/0.9.32"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
                 "afterlogic/aurora-module-files": "~0.9.0",
                 "afterlogic/aurora-module-webclient-files": "~0.9.0",
+                "afterlogic/aurora-module-webclient-openpgp": "~0.9.0",
                 "php": ">=5.4.0"
             },
             "type": "aurora-module",
             "extra": {
                 "installer-name": "CoreParanoidEncryptionWebclientPlugin"
             },
-            "time": "2020-06-16T11:53:49+00:00"
+            "time": "2020-06-18T08:01:24+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-dropbox-auth",
@@ -1767,16 +1768,16 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp",
-            "version": "0.9.32",
+            "version": "0.9.33",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp",
-                "reference": "tags/0.9.32"
+                "reference": "tags/0.9.33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp/archive/0.9.32.zip",
-                "reference": "tags/0.9.32"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp/archive/0.9.33.zip",
+                "reference": "tags/0.9.33"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -1786,7 +1787,7 @@
             "extra": {
                 "installer-name": "OpenPgpWebclient"
             },
-            "time": "2020-06-17T08:28:54+00:00"
+            "time": "2020-06-18T11:17:30+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-recaptcha-plugin",
@@ -2008,16 +2009,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.142.3",
+            "version": "3.142.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "3e593efcfd06237219a1ee85319a0b3c863ee67e"
+                "reference": "ba152ab9ff9e55b62ed2b47f776783242ad1480d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/3e593efcfd06237219a1ee85319a0b3c863ee67e",
-                "reference": "3e593efcfd06237219a1ee85319a0b3c863ee67e",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/ba152ab9ff9e55b62ed2b47f776783242ad1480d",
+                "reference": "ba152ab9ff9e55b62ed2b47f776783242ad1480d",
                 "shasum": ""
             },
             "require": {
@@ -2089,7 +2090,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2020-06-16T18:16:10+00:00"
+            "time": "2020-06-18T18:15:37+00:00"
         },
         {
             "name": "composer/installers",
