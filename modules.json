@@ -86,6 +86,9 @@
 		"afterlogic/aurora-module-override-user-settings": "~0.9.0",
 		"afterlogic/aurora-module-mobile-webclient-mail-login-form": "~0.9.0",
 		
-		"afterlogic/aurora-module-s3-filestorage": "~0.9.0"
+		"afterlogic/aurora-module-s3-filestorage": "~0.9.0",
+		"afterlogic/aurora-module-activity-history": "~0.9.0",
+		"afterlogic/aurora-module-webclient-openpgp-files": "~0.9.0"
+		
 	}
 }
