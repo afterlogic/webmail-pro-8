@@ -1679,16 +1679,16 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail",
-            "version": "0.9.108",
+            "version": "0.9.109",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-mail",
-                "reference": "tags/0.9.108"
+                "reference": "tags/0.9.109"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-mail/archive/0.9.108.zip",
-                "reference": "tags/0.9.108",
+                "url": "https://github.com/afterlogic/aurora-module-webclient-mail/archive/0.9.109.zip",
+                "reference": "tags/0.9.109",
                 "shasum": null
             },
             "require": {
@@ -1698,7 +1698,7 @@
             "extra": {
                 "installer-name": "MailWebclient"
             },
-            "time": "2020-07-23 09:39:24"
+            "time": "2020-07-23 17:25:53"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-login-form",
