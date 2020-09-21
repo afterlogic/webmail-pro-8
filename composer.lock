@@ -1,9 +1,10 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
+    "hash": "3a85fa213e547e418c7e5d2604359299",
     "content-hash": "c10847f34fb2ab41f65ac9253d2a6853",
     "packages": [
         {
@@ -26,7 +27,7 @@
                 "squizlabs/php_codesniffer": "^2.0"
             },
             "type": "aurora-dev-tools",
-            "time": "2020-05-21T07:48:04+00:00"
+            "time": "2020-05-21 07:48:04"
         },
         {
             "name": "afterlogic/aurora-framework",
@@ -57,7 +58,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2020-09-10T13:42:49+00:00"
+            "time": "2020-09-10 13:42:49"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -81,7 +82,7 @@
             "extra": {
                 "installer-name": "ActiveServer"
             },
-            "time": "2020-09-02T11:28:47+00:00"
+            "time": "2020-09-02 11:28:47"
         },
         {
             "name": "afterlogic/aurora-module-activity-history",
@@ -105,7 +106,7 @@
             "extra": {
                 "installer-name": "ActivityHistory"
             },
-            "time": "2020-09-04T09:13:59+00:00"
+            "time": "2020-09-04 09:13:59"
         },
         {
             "name": "afterlogic/aurora-module-admin-auth",
@@ -129,7 +130,7 @@
             "extra": {
                 "installer-name": "AdminAuth"
             },
-            "time": "2020-04-06T17:00:07+00:00"
+            "time": "2020-04-06 17:00:07"
         },
         {
             "name": "afterlogic/aurora-module-autodiscover",
@@ -153,7 +154,7 @@
             "extra": {
                 "installer-name": "Autodiscover"
             },
-            "time": "2019-04-26T11:13:33+00:00"
+            "time": "2019-04-26 11:13:33"
         },
         {
             "name": "afterlogic/aurora-module-calendar",
@@ -178,7 +179,7 @@
             "extra": {
                 "installer-name": "Calendar"
             },
-            "time": "2020-09-10T13:43:33+00:00"
+            "time": "2020-09-10 13:43:33"
         },
         {
             "name": "afterlogic/aurora-module-calendar-meetings-plugin",
@@ -203,7 +204,7 @@
             "extra": {
                 "installer-name": "CalendarMeetingsPlugin"
             },
-            "time": "2019-12-18T08:32:36+00:00"
+            "time": "2019-12-18 08:32:36"
         },
         {
             "name": "afterlogic/aurora-module-contacts",
@@ -228,20 +229,20 @@
             "extra": {
                 "installer-name": "Contacts"
             },
-            "time": "2020-09-03T13:28:56+00:00"
+            "time": "2020-09-03 13:28:56"
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.9.76",
+            "version": "0.9.77",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.9.76"
+                "reference": "tags/0.9.77"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.9.76.zip",
-                "reference": "tags/0.9.76",
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.9.77.zip",
+                "reference": "tags/0.9.77",
                 "shasum": null
             },
             "require": {
@@ -252,7 +253,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2020-09-18T12:37:03+00:00"
+            "time": "2020-09-21 10:33:46"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -276,7 +277,7 @@
             "extra": {
                 "installer-name": "CoreExtender"
             },
-            "time": "2020-06-17T11:09:00+00:00"
+            "time": "2020-06-17 11:09:00"
         },
         {
             "name": "afterlogic/aurora-module-cpanel-integrator",
@@ -302,7 +303,7 @@
             "extra": {
                 "installer-name": "CpanelIntegrator"
             },
-            "time": "2020-09-15T13:30:42+00:00"
+            "time": "2020-09-15 13:30:42"
         },
         {
             "name": "afterlogic/aurora-module-dav",
@@ -328,7 +329,7 @@
             "extra": {
                 "installer-name": "Dav"
             },
-            "time": "2020-04-15T13:31:44+00:00"
+            "time": "2020-04-15 13:31:44"
         },
         {
             "name": "afterlogic/aurora-module-dav-contacts",
@@ -354,7 +355,7 @@
             "extra": {
                 "installer-name": "DavContacts"
             },
-            "time": "2020-04-01T10:25:59+00:00"
+            "time": "2020-04-01 10:25:59"
         },
         {
             "name": "afterlogic/aurora-module-dropbox",
@@ -380,7 +381,7 @@
             "extra": {
                 "installer-name": "Dropbox"
             },
-            "time": "2020-04-23T10:52:45+00:00"
+            "time": "2020-04-23 10:52:45"
         },
         {
             "name": "afterlogic/aurora-module-dropbox-filestorage",
@@ -406,7 +407,7 @@
             "extra": {
                 "installer-name": "DropboxFilestorage"
             },
-            "time": "2020-07-06T13:12:21+00:00"
+            "time": "2020-07-06 13:12:21"
         },
         {
             "name": "afterlogic/aurora-module-eav-object-viewer",
@@ -430,7 +431,7 @@
             "extra": {
                 "installer-name": "EavObjectViewer"
             },
-            "time": "2020-09-09T12:12:04+00:00"
+            "time": "2020-09-09 12:12:04"
         },
         {
             "name": "afterlogic/aurora-module-facebook",
@@ -454,7 +455,7 @@
             "extra": {
                 "installer-name": "Facebook"
             },
-            "time": "2020-04-23T10:51:35+00:00"
+            "time": "2020-04-23 10:51:35"
         },
         {
             "name": "afterlogic/aurora-module-files",
@@ -480,7 +481,7 @@
             "extra": {
                 "installer-name": "Files"
             },
-            "time": "2020-08-31T08:55:58+00:00"
+            "time": "2020-08-31 08:55:58"
         },
         {
             "name": "afterlogic/aurora-module-files-zipfolder",
@@ -504,7 +505,7 @@
             "extra": {
                 "installer-name": "FilesZipFolder"
             },
-            "time": "2019-04-26T11:38:59+00:00"
+            "time": "2019-04-26 11:38:59"
         },
         {
             "name": "afterlogic/aurora-module-google",
@@ -529,7 +530,7 @@
             "extra": {
                 "installer-name": "Google"
             },
-            "time": "2020-04-23T10:51:08+00:00"
+            "time": "2020-04-23 10:51:08"
         },
         {
             "name": "afterlogic/aurora-module-googledrive",
@@ -554,7 +555,7 @@
             "extra": {
                 "installer-name": "GoogleDrive"
             },
-            "time": "2020-07-06T13:13:56+00:00"
+            "time": "2020-07-06 13:13:56"
         },
         {
             "name": "afterlogic/aurora-module-import-export-mail-plugin",
@@ -581,7 +582,7 @@
             "extra": {
                 "installer-name": "ImportExportMailPlugin"
             },
-            "time": "2019-12-18T08:57:31+00:00"
+            "time": "2019-12-18 08:57:31"
         },
         {
             "name": "afterlogic/aurora-module-ios",
@@ -606,7 +607,7 @@
             "extra": {
                 "installer-name": "Ios"
             },
-            "time": "2020-09-10T13:45:50+00:00"
+            "time": "2020-09-10 13:45:50"
         },
         {
             "name": "afterlogic/aurora-module-licensing",
@@ -630,7 +631,7 @@
             "extra": {
                 "installer-name": "Licensing"
             },
-            "time": "2019-04-26T11:45:27+00:00"
+            "time": "2019-04-26 11:45:27"
         },
         {
             "name": "afterlogic/aurora-module-mail",
@@ -656,7 +657,7 @@
             "extra": {
                 "installer-name": "Mail"
             },
-            "time": "2020-09-10T13:46:14+00:00"
+            "time": "2020-09-10 13:46:14"
         },
         {
             "name": "afterlogic/aurora-module-mail-auth-cpanel",
@@ -681,7 +682,7 @@
             "extra": {
                 "installer-name": "MailAuthCpanel"
             },
-            "time": "2019-08-07T11:58:29+00:00"
+            "time": "2019-08-07 11:58:29"
         },
         {
             "name": "afterlogic/aurora-module-mail-change-password-poppassd-plugin",
@@ -705,7 +706,7 @@
             "extra": {
                 "installer-name": "MailChangePasswordPoppassdPlugin"
             },
-            "time": "2019-12-18T08:59:14+00:00"
+            "time": "2019-12-18 08:59:14"
         },
         {
             "name": "afterlogic/aurora-module-mail-master-password",
@@ -729,7 +730,7 @@
             "extra": {
                 "installer-name": "MailMasterPassword"
             },
-            "time": "2020-04-06T11:36:16+00:00"
+            "time": "2020-04-06 11:36:16"
         },
         {
             "name": "afterlogic/aurora-module-mail-multi-accounts-plugin",
@@ -753,7 +754,7 @@
             "extra": {
                 "installer-name": "MailMultiAccountsPlugin"
             },
-            "time": "2019-04-26T11:56:23+00:00"
+            "time": "2019-04-26 11:56:23"
         },
         {
             "name": "afterlogic/aurora-module-mail-notes-plugin",
@@ -777,7 +778,7 @@
             "extra": {
                 "installer-name": "MailNotesPlugin"
             },
-            "time": "2020-04-10T15:13:05+00:00"
+            "time": "2020-04-10 15:13:05"
         },
         {
             "name": "afterlogic/aurora-module-mail-save-attachments-to-files-plugin",
@@ -800,7 +801,7 @@
             "extra": {
                 "installer-name": "MailSaveAttachmentsToFilesPlugin"
             },
-            "time": "2019-12-18T09:00:03+00:00"
+            "time": "2019-12-18 09:00:03"
         },
         {
             "name": "afterlogic/aurora-module-mail-save-message-as-pdf-plugin",
@@ -824,7 +825,7 @@
             "extra": {
                 "installer-name": "MailSaveMessageAsPdfPlugin"
             },
-            "time": "2019-12-18T09:00:16+00:00"
+            "time": "2019-12-18 09:00:16"
         },
         {
             "name": "afterlogic/aurora-module-min",
@@ -848,7 +849,7 @@
             "extra": {
                 "installer-name": "Min"
             },
-            "time": "2020-03-10T07:10:45+00:00"
+            "time": "2020-03-10 07:10:45"
         },
         {
             "name": "afterlogic/aurora-module-mobile-sync",
@@ -872,7 +873,7 @@
             "extra": {
                 "installer-name": "MobileSync"
             },
-            "time": "2019-04-26T12:02:31+00:00"
+            "time": "2019-04-26 12:02:31"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-contacts",
@@ -897,7 +898,7 @@
             "extra": {
                 "installer-name": "ContactsMobileWebclient"
             },
-            "time": "2020-04-17T10:54:04+00:00"
+            "time": "2020-04-17 10:54:04"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-core",
@@ -922,7 +923,7 @@
             "extra": {
                 "installer-name": "CoreMobileWebclient"
             },
-            "time": "2020-08-20T12:36:31+00:00"
+            "time": "2020-08-20 12:36:31"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-files",
@@ -946,7 +947,7 @@
             "extra": {
                 "installer-name": "FilesMobileWebclient"
             },
-            "time": "2020-09-02T07:41:06+00:00"
+            "time": "2020-09-02 07:41:06"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-mail",
@@ -971,7 +972,7 @@
             "extra": {
                 "installer-name": "MailMobileWebclient"
             },
-            "time": "2020-05-15T08:31:53+00:00"
+            "time": "2020-05-15 08:31:53"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-mail-login-form",
@@ -995,7 +996,7 @@
             "extra": {
                 "installer-name": "MailLoginFormMobileWebclient"
             },
-            "time": "2020-05-12T07:43:42+00:00"
+            "time": "2020-05-12 07:43:42"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-openpgp",
@@ -1019,7 +1020,7 @@
             "extra": {
                 "installer-name": "OpenPgpMobileWebclient"
             },
-            "time": "2020-09-02T08:26:49+00:00"
+            "time": "2020-09-02 08:26:49"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-settings",
@@ -1043,7 +1044,7 @@
             "extra": {
                 "installer-name": "SettingsMobileWebclient"
             },
-            "time": "2019-05-15T11:57:48+00:00"
+            "time": "2019-05-15 11:57:48"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-standard-login-form",
@@ -1067,7 +1068,7 @@
             "extra": {
                 "installer-name": "StandardLoginFormMobileWebclient"
             },
-            "time": "2020-05-12T07:42:32+00:00"
+            "time": "2020-05-12 07:42:32"
         },
         {
             "name": "afterlogic/aurora-module-oembed-files",
@@ -1091,7 +1092,7 @@
             "extra": {
                 "installer-name": "OEmbedFiles"
             },
-            "time": "2019-04-26T12:05:05+00:00"
+            "time": "2019-04-26 12:05:05"
         },
         {
             "name": "afterlogic/aurora-module-office-document-viewer",
@@ -1115,7 +1116,7 @@
             "extra": {
                 "installer-name": "OfficeDocumentViewer"
             },
-            "time": "2020-06-26T12:56:04+00:00"
+            "time": "2020-06-26 12:56:04"
         },
         {
             "name": "afterlogic/aurora-module-override-user-settings",
@@ -1139,7 +1140,7 @@
             "extra": {
                 "installer-name": "OverrideUserSettings"
             },
-            "time": "2019-07-29T15:16:15+00:00"
+            "time": "2019-07-29 15:16:15"
         },
         {
             "name": "afterlogic/aurora-module-personal-contacts",
@@ -1164,7 +1165,7 @@
             "extra": {
                 "installer-name": "PersonalContacts"
             },
-            "time": "2020-04-07T08:39:54+00:00"
+            "time": "2020-04-07 08:39:54"
         },
         {
             "name": "afterlogic/aurora-module-personalfiles",
@@ -1191,7 +1192,7 @@
             "extra": {
                 "installer-name": "PersonalFiles"
             },
-            "time": "2020-08-20T09:51:43+00:00"
+            "time": "2020-08-20 09:51:43"
         },
         {
             "name": "afterlogic/aurora-module-s3-filestorage",
@@ -1216,7 +1217,7 @@
             "extra": {
                 "installer-name": "S3Filestorage"
             },
-            "time": "2020-09-10T08:12:42+00:00"
+            "time": "2020-09-10 08:12:42"
         },
         {
             "name": "afterlogic/aurora-module-tasks",
@@ -1240,7 +1241,7 @@
             "extra": {
                 "installer-name": "Tasks"
             },
-            "time": "2020-05-21T15:47:35+00:00"
+            "time": "2020-05-21 15:47:35"
         },
         {
             "name": "afterlogic/aurora-module-two-factor-auth",
@@ -1265,7 +1266,7 @@
             "extra": {
                 "installer-name": "TwoFactorAuth"
             },
-            "time": "2020-04-06T10:44:17+00:00"
+            "time": "2020-04-06 10:44:17"
         },
         {
             "name": "afterlogic/aurora-module-webclient-adminpanel",
@@ -1289,7 +1290,7 @@
             "extra": {
                 "installer-name": "AdminPanelWebclient"
             },
-            "time": "2020-09-09T07:14:05+00:00"
+            "time": "2020-09-09 07:14:05"
         },
         {
             "name": "afterlogic/aurora-module-webclient-branding",
@@ -1313,7 +1314,7 @@
             "extra": {
                 "installer-name": "BrandingWebclient"
             },
-            "time": "2020-09-10T08:09:13+00:00"
+            "time": "2020-09-10 08:09:13"
         },
         {
             "name": "afterlogic/aurora-module-webclient-calendar",
@@ -1336,7 +1337,7 @@
             "extra": {
                 "installer-name": "CalendarWebclient"
             },
-            "time": "2020-09-03T11:16:31+00:00"
+            "time": "2020-09-03 11:16:31"
         },
         {
             "name": "afterlogic/aurora-module-webclient-change-password",
@@ -1360,7 +1361,7 @@
             "extra": {
                 "installer-name": "ChangePasswordWebclient"
             },
-            "time": "2020-04-06T11:32:24+00:00"
+            "time": "2020-04-06 11:32:24"
         },
         {
             "name": "afterlogic/aurora-module-webclient-contacts",
@@ -1384,7 +1385,7 @@
             "extra": {
                 "installer-name": "ContactsWebclient"
             },
-            "time": "2020-09-03T08:28:15+00:00"
+            "time": "2020-09-03 08:28:15"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core",
@@ -1408,7 +1409,7 @@
             "extra": {
                 "installer-name": "CoreWebclient"
             },
-            "time": "2020-09-10T13:44:24+00:00"
+            "time": "2020-09-10 13:44:24"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
@@ -1435,7 +1436,7 @@
             "extra": {
                 "installer-name": "CoreParanoidEncryptionWebclientPlugin"
             },
-            "time": "2020-09-07T07:49:32+00:00"
+            "time": "2020-09-07 07:49:32"
         },
         {
             "name": "afterlogic/aurora-module-webclient-dropbox-auth",
@@ -1459,7 +1460,7 @@
             "extra": {
                 "installer-name": "DropboxAuthWebclient"
             },
-            "time": "2020-04-23T10:52:03+00:00"
+            "time": "2020-04-23 10:52:03"
         },
         {
             "name": "afterlogic/aurora-module-webclient-external-clients-login-form",
@@ -1483,7 +1484,7 @@
             "extra": {
                 "installer-name": "ExternalClientsLoginFormWebclient"
             },
-            "time": "2019-04-26T11:33:35+00:00"
+            "time": "2019-04-26 11:33:35"
         },
         {
             "name": "afterlogic/aurora-module-webclient-facebook-auth",
@@ -1507,7 +1508,7 @@
             "extra": {
                 "installer-name": "FacebookAuthWebclient"
             },
-            "time": "2020-03-05T14:33:25+00:00"
+            "time": "2020-03-05 14:33:25"
         },
         {
             "name": "afterlogic/aurora-module-webclient-file-viewer-plugin",
@@ -1531,7 +1532,7 @@
             "extra": {
                 "installer-name": "FileViewerWebclientPlugin"
             },
-            "time": "2020-06-26T13:01:48+00:00"
+            "time": "2020-06-26 13:01:48"
         },
         {
             "name": "afterlogic/aurora-module-webclient-files",
@@ -1555,7 +1556,7 @@
             "extra": {
                 "installer-name": "FilesWebclient"
             },
-            "time": "2020-09-10T13:44:57+00:00"
+            "time": "2020-09-10 13:44:57"
         },
         {
             "name": "afterlogic/aurora-module-webclient-files-cut-copy-paste-plugin",
@@ -1579,7 +1580,7 @@
             "extra": {
                 "installer-name": "FilesCutCopyPasteWebclientPlugin"
             },
-            "time": "2020-05-21T08:23:11+00:00"
+            "time": "2020-05-21 08:23:11"
         },
         {
             "name": "afterlogic/aurora-module-webclient-files-tableview-plugin",
@@ -1603,7 +1604,7 @@
             "extra": {
                 "installer-name": "FilesTableviewWebclientPlugin"
             },
-            "time": "2020-08-31T07:17:30+00:00"
+            "time": "2020-08-31 07:17:30"
         },
         {
             "name": "afterlogic/aurora-module-webclient-google-auth",
@@ -1627,7 +1628,7 @@
             "extra": {
                 "installer-name": "GoogleAuthWebclient"
             },
-            "time": "2020-04-23T10:50:32+00:00"
+            "time": "2020-04-23 10:50:32"
         },
         {
             "name": "afterlogic/aurora-module-webclient-licensing",
@@ -1650,7 +1651,7 @@
             "extra": {
                 "installer-name": "LicensingWebclient"
             },
-            "time": "2019-12-18T08:58:34+00:00"
+            "time": "2019-12-18 08:58:34"
         },
         {
             "name": "afterlogic/aurora-module-webclient-logs-viewer",
@@ -1674,7 +1675,7 @@
             "extra": {
                 "installer-name": "LogsViewerWebclient"
             },
-            "time": "2019-12-18T08:58:44+00:00"
+            "time": "2019-12-18 08:58:44"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail",
@@ -1697,7 +1698,7 @@
             "extra": {
                 "installer-name": "MailWebclient"
             },
-            "time": "2020-09-03T08:31:52+00:00"
+            "time": "2020-09-03 08:31:52"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-login-form",
@@ -1721,7 +1722,7 @@
             "extra": {
                 "installer-name": "MailLoginFormWebclient"
             },
-            "time": "2020-04-27T15:43:35+00:00"
+            "time": "2020-04-27 15:43:35"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-sensitivity-plugin",
@@ -1744,7 +1745,7 @@
             "extra": {
                 "installer-name": "MailSensitivityWebclientPlugin"
             },
-            "time": "2020-04-06T10:39:30+00:00"
+            "time": "2020-04-06 10:39:30"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-signup",
@@ -1768,7 +1769,7 @@
             "extra": {
                 "installer-name": "MailSignup"
             },
-            "time": "2020-04-06T11:36:52+00:00"
+            "time": "2020-04-06 11:36:52"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-tnef-plugin",
@@ -1792,7 +1793,7 @@
             "extra": {
                 "installer-name": "MailTnefWebclientPlugin"
             },
-            "time": "2019-05-15T11:55:38+00:00"
+            "time": "2019-05-15 11:55:38"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-zip-plugin",
@@ -1816,7 +1817,7 @@
             "extra": {
                 "installer-name": "MailZipWebclientPlugin"
             },
-            "time": "2019-12-18T09:01:36+00:00"
+            "time": "2019-12-18 09:01:36"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mobile-apps",
@@ -1839,7 +1840,7 @@
             "extra": {
                 "installer-name": "MobileAppsWebclient"
             },
-            "time": "2020-08-21T13:01:39+00:00"
+            "time": "2020-08-21 13:01:39"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mobile-sync",
@@ -1862,7 +1863,7 @@
             "extra": {
                 "installer-name": "MobileSyncWebclient"
             },
-            "time": "2019-12-18T09:01:50+00:00"
+            "time": "2019-12-18 09:01:50"
         },
         {
             "name": "afterlogic/aurora-module-webclient-oauth-integrator",
@@ -1886,7 +1887,7 @@
             "extra": {
                 "installer-name": "OAuthIntegratorWebclient"
             },
-            "time": "2020-09-01T13:06:19+00:00"
+            "time": "2020-09-01 13:06:19"
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp",
@@ -1910,7 +1911,7 @@
             "extra": {
                 "installer-name": "OpenPgpWebclient"
             },
-            "time": "2020-09-02T07:53:23+00:00"
+            "time": "2020-09-02 07:53:23"
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp-files",
@@ -1936,7 +1937,7 @@
             "extra": {
                 "installer-name": "OpenPgpFilesWebclient"
             },
-            "time": "2020-09-04T09:14:52+00:00"
+            "time": "2020-09-04 09:14:52"
         },
         {
             "name": "afterlogic/aurora-module-webclient-recaptcha-plugin",
@@ -1961,7 +1962,7 @@
             "extra": {
                 "installer-name": "RecaptchaWebclientPlugin"
             },
-            "time": "2020-04-14T11:41:08+00:00"
+            "time": "2020-04-14 11:41:08"
         },
         {
             "name": "afterlogic/aurora-module-webclient-session-timeout",
@@ -1985,7 +1986,7 @@
             "extra": {
                 "installer-name": "SessionTimeoutWebclient"
             },
-            "time": "2020-04-08T07:07:33+00:00"
+            "time": "2020-04-08 07:07:33"
         },
         {
             "name": "afterlogic/aurora-module-webclient-settings",
@@ -2009,7 +2010,7 @@
             "extra": {
                 "installer-name": "SettingsWebclient"
             },
-            "time": "2020-07-02T17:33:00+00:00"
+            "time": "2020-07-02 17:33:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-standard-login-form",
@@ -2033,7 +2034,7 @@
             "extra": {
                 "installer-name": "StandardLoginFormWebclient"
             },
-            "time": "2020-06-11T08:24:47+00:00"
+            "time": "2020-06-11 08:24:47"
         },
         {
             "name": "afterlogic/dav",
@@ -2074,7 +2075,7 @@
             ],
             "description": "Afterlogic DAV Server",
             "homepage": "https://github.com/afterlogic/dav",
-            "time": "2020-07-13T03:21:09+00:00"
+            "time": "2020-07-13 03:21:09"
         },
         {
             "name": "afterlogic/googleauthenticator",
@@ -2117,7 +2118,7 @@
                 "rfc6238",
                 "totp"
             ],
-            "time": "2018-12-07T09:25:54+00:00"
+            "time": "2018-12-07 09:25:54"
         },
         {
             "name": "afterlogic/mailso",
@@ -2158,20 +2159,20 @@
             ],
             "description": "Afterlogic MailSo",
             "homepage": "https://github.com/afterlogic/mailso",
-            "time": "2020-06-03T13:58:11+00:00"
+            "time": "2020-06-03 13:58:11"
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.154.5",
+            "version": "3.154.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "50b1ef32d51d80f35a691e13c34f67b920765c18"
+                "reference": "83a1382930359e4d4f4c9187239f059d5b282520"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/50b1ef32d51d80f35a691e13c34f67b920765c18",
-                "reference": "50b1ef32d51d80f35a691e13c34f67b920765c18",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/83a1382930359e4d4f4c9187239f059d5b282520",
+                "reference": "83a1382930359e4d4f4c9187239f059d5b282520",
                 "shasum": ""
             },
             "require": {
@@ -2243,7 +2244,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2020-09-17T18:22:25+00:00"
+            "time": "2020-09-18 18:16:42"
         },
         {
             "name": "composer/installers",
@@ -2370,7 +2371,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2020-04-07T06:57:05+00:00"
+            "time": "2020-04-07 06:57:05"
         },
         {
             "name": "google/apiclient",
@@ -2413,7 +2414,7 @@
             "keywords": [
                 "google"
             ],
-            "time": "2016-02-02T18:50:42+00:00"
+            "time": "2016-02-02 18:50:42"
         },
         {
             "name": "google/recaptcha",
@@ -2460,7 +2461,7 @@
                 "recaptcha",
                 "spam"
             ],
-            "time": "2020-03-31T17:50:54+00:00"
+            "time": "2020-03-31 17:50:54"
         },
         {
             "name": "gufy/cpanel-php",
@@ -2501,7 +2502,7 @@
             ],
             "description": "Cpanel/WHM API for PHP",
             "abandoned": true,
-            "time": "2016-02-26T14:17:18+00:00"
+            "time": "2016-02-26 14:17:18"
         },
         {
             "name": "guzzlehttp/guzzle",
@@ -2568,7 +2569,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2020-06-16T21:01:06+00:00"
+            "time": "2020-06-16 21:01:06"
         },
         {
             "name": "guzzlehttp/promises",
@@ -2619,7 +2620,7 @@
             "keywords": [
                 "promise"
             ],
-            "time": "2016-12-20T10:07:11+00:00"
+            "time": "2016-12-20 10:07:11"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -2690,7 +2691,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2019-07-01T23:21:34+00:00"
+            "time": "2019-07-01 23:21:34"
         },
         {
             "name": "intervention/image",
@@ -2760,7 +2761,7 @@
                 "thumbnail",
                 "watermark"
             ],
-            "time": "2019-11-02T09:15:47+00:00"
+            "time": "2019-11-02 09:15:47"
         },
         {
             "name": "knplabs/knp-snappy",
@@ -2825,7 +2826,7 @@
                 "thumbnail",
                 "wkhtmltopdf"
             ],
-            "time": "2015-11-17T13:16:27+00:00"
+            "time": "2015-11-17 13:16:27"
         },
         {
             "name": "kunalvarma05/dropbox-php-sdk",
@@ -2873,7 +2874,7 @@
                 "sdk",
                 "unofficial"
             ],
-            "time": "2017-06-26T09:37:16+00:00"
+            "time": "2017-06-26 09:37:16"
         },
         {
             "name": "maennchen/zipstream-php",
@@ -2925,7 +2926,7 @@
                 "stream",
                 "zip"
             ],
-            "time": "2018-02-09T09:26:57+00:00"
+            "time": "2018-02-09 09:26:57"
         },
         {
             "name": "mtdowling/jmespath.php",
@@ -2982,7 +2983,7 @@
                 "json",
                 "jsonpath"
             ],
-            "time": "2020-07-31T21:01:56+00:00"
+            "time": "2020-07-31 21:01:56"
         },
         {
             "name": "oomphinc/composer-installers-extender",
@@ -3024,7 +3025,7 @@
             ],
             "description": "Extend the composer/installers plugin to accept any arbitrary package type.",
             "homepage": "http://www.oomphinc.com/",
-            "time": "2017-03-31T16:57:39+00:00"
+            "time": "2017-03-31 16:57:39"
         },
         {
             "name": "paragonie/random_compat",
@@ -3069,7 +3070,7 @@
                 "pseudorandom",
                 "random"
             ],
-            "time": "2018-07-02T15:55:56+00:00"
+            "time": "2018-07-02 15:55:56"
         },
         {
             "name": "pear/net_idna2",
@@ -3117,7 +3118,7 @@
                 }
             ],
             "description": "More info available on: https://pear.php.net/package/Net_IDNA2",
-            "time": "2017-03-06T20:46:41+00:00"
+            "time": "2017-03-06 20:46:41"
         },
         {
             "name": "pear/pear_exception",
@@ -3172,7 +3173,7 @@
             "keywords": [
                 "exception"
             ],
-            "time": "2019-12-10T10:24:42+00:00"
+            "time": "2019-12-10 10:24:42"
         },
         {
             "name": "phpcompatibility/php-compatibility",
@@ -3230,7 +3231,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2019-12-27T09:44:58+00:00"
+            "time": "2019-12-27 09:44:58"
         },
         {
             "name": "phpixie/cache",
@@ -3293,7 +3294,7 @@
                 "psr-6",
                 "redis"
             ],
-            "time": "2019-12-25T09:07:49+00:00"
+            "time": "2019-12-25 09:07:49"
         },
         {
             "name": "phpixie/filesystem",
@@ -3344,7 +3345,7 @@
                 "file",
                 "filesystem"
             ],
-            "time": "2019-12-25T20:27:03+00:00"
+            "time": "2019-12-25 20:27:03"
         },
         {
             "name": "phpixie/slice",
@@ -3393,7 +3394,7 @@
                 "data",
                 "parameters"
             ],
-            "time": "2016-06-12T08:07:30+00:00"
+            "time": "2016-06-12 08:07:30"
         },
         {
             "name": "psr/cache",
@@ -3439,7 +3440,7 @@
                 "psr",
                 "psr-6"
             ],
-            "time": "2016-08-06T20:24:11+00:00"
+            "time": "2016-08-06 20:24:11"
         },
         {
             "name": "psr/http-message",
@@ -3489,7 +3490,7 @@
                 "request",
                 "response"
             ],
-            "time": "2016-08-06T14:39:51+00:00"
+            "time": "2016-08-06 14:39:51"
         },
         {
             "name": "psr/log",
@@ -3536,7 +3537,7 @@
                 "psr",
                 "psr-3"
             ],
-            "time": "2020-03-23T09:12:05+00:00"
+            "time": "2020-03-23 09:12:05"
         },
         {
             "name": "psr/simple-cache",
@@ -3584,7 +3585,7 @@
                 "psr-16",
                 "simple-cache"
             ],
-            "time": "2016-12-09T08:51:20+00:00"
+            "time": "2016-12-09 08:51:20"
         },
         {
             "name": "rakit/validation",
@@ -3624,7 +3625,7 @@
                 }
             ],
             "description": "PHP Laravel like standalone validation library",
-            "time": "2018-11-10T03:57:56+00:00"
+            "time": "2018-11-10 03:57:56"
         },
         {
             "name": "ralouphie/getallheaders",
@@ -3664,7 +3665,7 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
-            "time": "2019-03-08T08:55:37+00:00"
+            "time": "2019-03-08 08:55:37"
         },
         {
             "name": "sabre/dav",
@@ -3747,7 +3748,7 @@
                 "framework",
                 "iCalendar"
             ],
-            "time": "2018-10-19T09:58:27+00:00"
+            "time": "2018-10-19 09:58:27"
         },
         {
             "name": "sabre/event",
@@ -3804,7 +3805,7 @@
                 "promise",
                 "signal"
             ],
-            "time": "2015-11-05T20:14:39+00:00"
+            "time": "2015-11-05 20:14:39"
         },
         {
             "name": "sabre/http",
@@ -3860,7 +3861,7 @@
             "keywords": [
                 "http"
             ],
-            "time": "2018-02-23T11:10:29+00:00"
+            "time": "2018-02-23 11:10:29"
         },
         {
             "name": "sabre/uri",
@@ -3911,7 +3912,7 @@
                 "uri",
                 "url"
             ],
-            "time": "2017-02-20T19:59:28+00:00"
+            "time": "2017-02-20 19:59:28"
         },
         {
             "name": "sabre/vobject",
@@ -4007,7 +4008,7 @@
                 "xCal",
                 "xCard"
             ],
-            "time": "2020-01-14T10:18:45+00:00"
+            "time": "2020-01-14 10:18:45"
         },
         {
             "name": "sabre/xml",
@@ -4070,7 +4071,7 @@
                 "dom",
                 "xml"
             ],
-            "time": "2019-01-09T13:51:57+00:00"
+            "time": "2019-01-09 13:51:57"
         },
         {
             "name": "squizlabs/php_codesniffer",
@@ -4148,7 +4149,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2018-11-07T22:31:41+00:00"
+            "time": "2018-11-07 22:31:41"
         },
         {
             "name": "symfony/filesystem",
@@ -4198,7 +4199,7 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
-            "time": "2018-11-11T11:18:13+00:00"
+            "time": "2018-11-11 11:18:13"
         },
         {
             "name": "symfony/polyfill-ctype",
@@ -4260,7 +4261,7 @@
                 "polyfill",
                 "portable"
             ],
-            "time": "2020-07-14T12:35:20+00:00"
+            "time": "2020-07-14 12:35:20"
         },
         {
             "name": "symfony/polyfill-intl-idn",
@@ -4331,7 +4332,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2020-08-04T06:02:08+00:00"
+            "time": "2020-08-04 06:02:08"
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
@@ -4398,7 +4399,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2020-07-14T12:35:20+00:00"
+            "time": "2020-07-14 12:35:20"
         },
         {
             "name": "symfony/polyfill-mbstring",
@@ -4461,7 +4462,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2020-07-14T12:35:20+00:00"
+            "time": "2020-07-14 12:35:20"
         },
         {
             "name": "symfony/polyfill-php70",
@@ -4524,7 +4525,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2020-07-14T12:35:20+00:00"
+            "time": "2020-07-14 12:35:20"
         },
         {
             "name": "symfony/polyfill-php72",
@@ -4583,7 +4584,7 @@
                 "portable",
                 "shim"
             ],
-            "time": "2020-07-14T12:35:20+00:00"
+            "time": "2020-07-14 12:35:20"
         },
         {
             "name": "symfony/process",
@@ -4632,7 +4633,7 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
-            "time": "2020-07-16T09:41:49+00:00"
+            "time": "2020-07-16 09:41:49"
         },
         {
             "name": "tightenco/collect",
@@ -4682,7 +4683,7 @@
                 "collection",
                 "laravel"
             ],
-            "time": "2018-01-25T19:26:27+00:00"
+            "time": "2018-01-25 19:26:27"
         },
         {
             "name": "tijsverkoyen/css-to-inline-styles",
@@ -4726,7 +4727,7 @@
             ],
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
             "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
-            "time": "2014-05-05T09:15:31+00:00"
+            "time": "2014-05-05 09:15:31"
         },
         {
             "name": "wikimedia/composer-merge-plugin",
@@ -4775,7 +4776,7 @@
                 }
             ],
             "description": "Composer plugin to merge multiple composer.json files",
-            "time": "2017-04-25T02:31:25+00:00"
+            "time": "2017-04-25 02:31:25"
         }
     ],
     "packages-dev": [],
