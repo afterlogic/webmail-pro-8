@@ -28,15 +28,15 @@
         },
         {
             "name": "afterlogic/aurora-framework",
-            "version": "0.9.123",
+            "version": "0.9.124",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-framework",
-                "reference": "tags/0.9.123"
+                "reference": "tags/0.9.124"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-framework/archive/0.9.123.zip"
+                "url": "https://github.com/afterlogic/aurora-framework/archive/0.9.124.zip"
             },
             "require": {
                 "afterlogic/mailso": "^1.4",
@@ -53,7 +53,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2020-11-03T10:23:19+00:00"
+            "time": "2020-11-05T08:07:48+00:00"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -2008,16 +2008,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.158.19",
+            "version": "3.158.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "b1c3c763e227e518768f0416cbd2b29c11f79561"
+                "reference": "25e4fe20837601adbf69921da2ef7d13ecf8932c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b1c3c763e227e518768f0416cbd2b29c11f79561",
-                "reference": "b1c3c763e227e518768f0416cbd2b29c11f79561",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/25e4fe20837601adbf69921da2ef7d13ecf8932c",
+                "reference": "25e4fe20837601adbf69921da2ef7d13ecf8932c",
                 "shasum": ""
             },
             "require": {
@@ -2092,9 +2092,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.158.19"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.158.20"
             },
-            "time": "2020-11-02T19:49:21+00:00"
+            "time": "2020-11-04T20:11:29+00:00"
         },
         {
             "name": "composer/installers",
