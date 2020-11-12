@@ -29,16 +29,16 @@
         },
         {
             "name": "afterlogic/aurora-framework",
-            "version": "0.9.125",
+            "version": "0.9.127",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-framework",
-                "reference": "tags/0.9.125"
+                "reference": "tags/0.9.127"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-framework/archive/0.9.125.zip",
-                "reference": "tags/0.9.125"
+                "url": "https://github.com/afterlogic/aurora-framework/archive/0.9.127.zip",
+                "reference": "tags/0.9.127"
             },
             "require": {
                 "afterlogic/mailso": "^1.4",
@@ -55,7 +55,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2020-11-06T12:36:44+00:00"
+            "time": "2020-11-12T06:47:22+00:00"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -609,16 +609,16 @@
         },
         {
             "name": "afterlogic/aurora-module-mail",
-            "version": "0.9.99",
+            "version": "0.9.100",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mail",
-                "reference": "tags/0.9.99"
+                "reference": "tags/0.9.100"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.9.99.zip",
-                "reference": "tags/0.9.99"
+                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.9.100.zip",
+                "reference": "tags/0.9.100"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -630,7 +630,7 @@
             "extra": {
                 "installer-name": "Mail"
             },
-            "time": "2020-11-06T12:39:12+00:00"
+            "time": "2020-11-12T13:38:54+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail-auth-cpanel",
@@ -1836,16 +1836,16 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp-files",
-            "version": "0.9.50",
+            "version": "0.9.51",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp-files",
-                "reference": "tags/0.9.50"
+                "reference": "tags/0.9.51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp-files/archive/0.9.50.zip",
-                "reference": "tags/0.9.50"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp-files/archive/0.9.51.zip",
+                "reference": "tags/0.9.51"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -1857,7 +1857,7 @@
             "extra": {
                 "installer-name": "OpenPgpFilesWebclient"
             },
-            "time": "2020-10-14T07:50:20+00:00"
+            "time": "2020-11-12T09:57:35+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-recaptcha-plugin",
@@ -1991,6 +1991,10 @@
             ],
             "description": "Afterlogic DAV Server",
             "homepage": "https://github.com/afterlogic/dav",
+            "support": {
+                "issues": "https://github.com/afterlogic/dav/issues",
+                "source": "https://github.com/afterlogic/dav/tree/2.2.99"
+            },
             "time": "2020-10-29T12:34:51+00:00"
         },
         {
@@ -2034,20 +2038,24 @@
                 "rfc6238",
                 "totp"
             ],
+            "support": {
+                "issues": "https://github.com/PHPGangsta/GoogleAuthenticator/issues",
+                "source": "https://github.com/PHPGangsta/GoogleAuthenticator"
+            },
             "time": "2018-12-07T09:25:54+00:00"
         },
         {
             "name": "afterlogic/mailso",
-            "version": "1.5.32",
+            "version": "1.5.34",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/MailSo.git",
-                "reference": "ddbb6e501165a893ffa71a5f1c8c40acbf2218f9"
+                "reference": "8661ca9634c5064f70b1d142f9b359cddcbdc73f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/afterlogic/MailSo/zipball/ddbb6e501165a893ffa71a5f1c8c40acbf2218f9",
-                "reference": "ddbb6e501165a893ffa71a5f1c8c40acbf2218f9",
+                "url": "https://api.github.com/repos/afterlogic/MailSo/zipball/8661ca9634c5064f70b1d142f9b359cddcbdc73f",
+                "reference": "8661ca9634c5064f70b1d142f9b359cddcbdc73f",
                 "shasum": ""
             },
             "require": {
@@ -2075,20 +2083,20 @@
             ],
             "description": "Afterlogic MailSo",
             "homepage": "https://github.com/afterlogic/mailso",
-            "time": "2020-10-29T12:36:07+00:00"
+            "time": "2020-11-12T11:46:54+00:00"
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.159.1",
+            "version": "3.160.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "41d8908c1ac53afc8b5dc68aab7a67765e366e15"
+                "reference": "5f1be65b657a53d79f585e2df8c996931b1b01b1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/41d8908c1ac53afc8b5dc68aab7a67765e366e15",
-                "reference": "41d8908c1ac53afc8b5dc68aab7a67765e366e15",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/5f1be65b657a53d79f585e2df8c996931b1b01b1",
+                "reference": "5f1be65b657a53d79f585e2df8c996931b1b01b1",
                 "shasum": ""
             },
             "require": {
@@ -2160,7 +2168,7 @@
                 "s3",
                 "sdk"
             ],
-            "time": "2020-11-10T19:11:53+00:00"
+            "time": "2020-11-11T19:16:21+00:00"
         },
         {
             "name": "composer/installers",
@@ -2287,6 +2295,20 @@
                 "zend",
                 "zikula"
             ],
+            "support": {
+                "issues": "https://github.com/composer/installers/issues",
+                "source": "https://github.com/composer/installers/tree/v1.9.0"
+            },
+            "funding": [
+                {
+                    "url": "https://packagist.com",
+                    "type": "custom"
+                },
+                {
+                    "url": "https://tidelift.com/funding/github/packagist/composer/composer",
+                    "type": "tidelift"
+                }
+            ],
             "time": "2020-04-07T06:57:05+00:00"
         },
         {
@@ -2330,6 +2352,10 @@
             "keywords": [
                 "google"
             ],
+            "support": {
+                "issues": "https://github.com/googleapis/google-api-php-client/issues",
+                "source": "https://github.com/googleapis/google-api-php-client/tree/1.1.7"
+            },
             "time": "2016-02-02T18:50:42+00:00"
         },
         {
@@ -2377,6 +2403,11 @@
                 "recaptcha",
                 "spam"
             ],
+            "support": {
+                "forum": "https://groups.google.com/forum/#!forum/recaptcha",
+                "issues": "https://github.com/google/recaptcha/issues",
+                "source": "https://github.com/google/recaptcha"
+            },
             "time": "2020-03-31T17:50:54+00:00"
         },
         {
@@ -2417,6 +2448,10 @@
                 }
             ],
             "description": "Cpanel/WHM API for PHP",
+            "support": {
+                "issues": "https://github.com/mgufrone/cpanel-php/issues",
+                "source": "https://github.com/mgufrone/cpanel-php/tree/master"
+            },
             "abandoned": true,
             "time": "2016-02-26T14:17:18+00:00"
         },
@@ -2485,6 +2520,10 @@
                 "rest",
                 "web service"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/guzzle/issues",
+                "source": "https://github.com/guzzle/guzzle/tree/6.5"
+            },
             "time": "2020-06-16T21:01:06+00:00"
         },
         {
@@ -2536,6 +2575,10 @@
             "keywords": [
                 "promise"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/promises/issues",
+                "source": "https://github.com/guzzle/promises/tree/1.4.0"
+            },
             "time": "2020-09-30T07:37:28+00:00"
         },
         {
@@ -2607,6 +2650,10 @@
                 "uri",
                 "url"
             ],
+            "support": {
+                "issues": "https://github.com/guzzle/psr7/issues",
+                "source": "https://github.com/guzzle/psr7/tree/1.7.0"
+            },
             "time": "2020-09-30T07:37:11+00:00"
         },
         {
@@ -2677,6 +2724,10 @@
                 "thumbnail",
                 "watermark"
             ],
+            "support": {
+                "issues": "https://github.com/Intervention/image/issues",
+                "source": "https://github.com/Intervention/image/tree/master"
+            },
             "time": "2019-11-02T09:15:47+00:00"
         },
         {
@@ -2742,6 +2793,10 @@
                 "thumbnail",
                 "wkhtmltopdf"
             ],
+            "support": {
+                "issues": "https://github.com/KnpLabs/snappy/issues",
+                "source": "https://github.com/KnpLabs/snappy/tree/master"
+            },
             "time": "2015-11-17T13:16:27+00:00"
         },
         {
@@ -2790,6 +2845,10 @@
                 "sdk",
                 "unofficial"
             ],
+            "support": {
+                "issues": "https://github.com/kunalvarma05/dropbox-php-sdk/issues",
+                "source": "https://github.com/kunalvarma05/dropbox-php-sdk/tree/master"
+            },
             "time": "2017-06-26T09:37:16+00:00"
         },
         {
@@ -2842,6 +2901,10 @@
                 "stream",
                 "zip"
             ],
+            "support": {
+                "issues": "https://github.com/maennchen/ZipStream-PHP/issues",
+                "source": "https://github.com/maennchen/ZipStream-PHP/tree/master"
+            },
             "time": "2018-02-09T09:26:57+00:00"
         },
         {
@@ -2899,6 +2962,10 @@
                 "json",
                 "jsonpath"
             ],
+            "support": {
+                "issues": "https://github.com/jmespath/jmespath.php/issues",
+                "source": "https://github.com/jmespath/jmespath.php/tree/2.6.0"
+            },
             "time": "2020-07-31T21:01:56+00:00"
         },
         {
@@ -2989,6 +3056,10 @@
                 }
             ],
             "description": "More info available on: https://pear.php.net/package/Net_IDNA2",
+            "support": {
+                "issues": "https://pear.php.net/bugs/search.php?cmd=display&package_name[]=Net_IDNA2",
+                "source": "https://github.com/pear/Net_IDNA2"
+            },
             "time": "2017-03-06T20:46:41+00:00"
         },
         {
@@ -3044,6 +3115,10 @@
             "keywords": [
                 "exception"
             ],
+            "support": {
+                "issues": "http://pear.php.net/bugs/search.php?cmd=display&package_name[]=PEAR_Exception",
+                "source": "https://github.com/pear/PEAR_Exception"
+            },
             "time": "2019-12-10T10:24:42+00:00"
         },
         {
@@ -3102,6 +3177,10 @@
                 "phpcs",
                 "standards"
             ],
+            "support": {
+                "issues": "https://github.com/PHPCompatibility/PHPCompatibility/issues",
+                "source": "https://github.com/PHPCompatibility/PHPCompatibility"
+            },
             "time": "2019-12-27T09:44:58+00:00"
         },
         {
@@ -3165,6 +3244,10 @@
                 "psr-6",
                 "redis"
             ],
+            "support": {
+                "issues": "https://github.com/PHPixie/Cache/issues",
+                "source": "https://github.com/PHPixie/Cache/tree/3.3"
+            },
             "time": "2019-12-25T09:07:49+00:00"
         },
         {
@@ -3216,6 +3299,10 @@
                 "file",
                 "filesystem"
             ],
+            "support": {
+                "issues": "https://github.com/PHPixie/Filesystem/issues",
+                "source": "https://github.com/PHPixie/Filesystem/tree/3.2.3"
+            },
             "time": "2019-12-25T20:27:03+00:00"
         },
         {
@@ -3265,6 +3352,10 @@
                 "data",
                 "parameters"
             ],
+            "support": {
+                "issues": "https://github.com/PHPixie/Slice/issues",
+                "source": "https://github.com/PHPixie/Slice/tree/3.2.3"
+            },
             "time": "2016-06-12T08:07:30+00:00"
         },
         {
@@ -3311,6 +3402,9 @@
                 "psr",
                 "psr-6"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/cache/tree/master"
+            },
             "time": "2016-08-06T20:24:11+00:00"
         },
         {
@@ -3361,6 +3455,9 @@
                 "request",
                 "response"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/http-message/tree/master"
+            },
             "time": "2016-08-06T14:39:51+00:00"
         },
         {
@@ -3408,6 +3505,9 @@
                 "psr",
                 "psr-3"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/log/tree/1.1.3"
+            },
             "time": "2020-03-23T09:12:05+00:00"
         },
         {
@@ -3456,6 +3556,9 @@
                 "psr-16",
                 "simple-cache"
             ],
+            "support": {
+                "source": "https://github.com/php-fig/simple-cache/tree/0.3.0"
+            },
             "time": "2016-12-09T08:51:20+00:00"
         },
         {
@@ -3496,6 +3599,10 @@
                 }
             ],
             "description": "PHP Laravel like standalone validation library",
+            "support": {
+                "issues": "https://github.com/rakit/validation/issues",
+                "source": "https://github.com/rakit/validation/tree/master"
+            },
             "time": "2018-11-10T03:57:56+00:00"
         },
         {
@@ -3536,6 +3643,10 @@
                 }
             ],
             "description": "A polyfill for getallheaders.",
+            "support": {
+                "issues": "https://github.com/ralouphie/getallheaders/issues",
+                "source": "https://github.com/ralouphie/getallheaders/tree/develop"
+            },
             "time": "2019-03-08T08:55:37+00:00"
         },
         {
@@ -3619,6 +3730,11 @@
                 "framework",
                 "iCalendar"
             ],
+            "support": {
+                "forum": "https://groups.google.com/group/sabredav-discuss",
+                "issues": "https://github.com/sabre-io/dav/issues",
+                "source": "https://github.com/fruux/sabre-dav"
+            },
             "time": "2018-10-19T09:58:27+00:00"
         },
         {
@@ -3676,6 +3792,11 @@
                 "promise",
                 "signal"
             ],
+            "support": {
+                "forum": "https://groups.google.com/group/sabredav-discuss",
+                "issues": "https://github.com/sabre-io/event/issues",
+                "source": "https://github.com/fruux/sabre-event"
+            },
             "time": "2015-11-05T20:14:39+00:00"
         },
         {
@@ -3732,6 +3853,11 @@
             "keywords": [
                 "http"
             ],
+            "support": {
+                "forum": "https://groups.google.com/group/sabredav-discuss",
+                "issues": "https://github.com/sabre-io/http/issues",
+                "source": "https://github.com/fruux/sabre-http"
+            },
             "time": "2018-02-23T11:10:29+00:00"
         },
         {
@@ -3783,6 +3909,11 @@
                 "uri",
                 "url"
             ],
+            "support": {
+                "forum": "https://groups.google.com/group/sabredav-discuss",
+                "issues": "https://github.com/sabre-io/uri/issues",
+                "source": "https://github.com/fruux/sabre-uri"
+            },
             "time": "2017-02-20T19:59:28+00:00"
         },
         {
@@ -3879,6 +4010,11 @@
                 "xCal",
                 "xCard"
             ],
+            "support": {
+                "forum": "https://groups.google.com/group/sabredav-discuss",
+                "issues": "https://github.com/sabre-io/vobject/issues",
+                "source": "https://github.com/fruux/sabre-vobject"
+            },
             "time": "2020-01-14T10:18:45+00:00"
         },
         {
@@ -3942,6 +4078,11 @@
                 "dom",
                 "xml"
             ],
+            "support": {
+                "forum": "https://groups.google.com/group/sabredav-discuss",
+                "issues": "https://github.com/sabre-io/xml/issues",
+                "source": "https://github.com/fruux/sabre-xml"
+            },
             "time": "2019-01-09T13:51:57+00:00"
         },
         {
@@ -4020,6 +4161,11 @@
                 "phpcs",
                 "standards"
             ],
+            "support": {
+                "issues": "https://github.com/squizlabs/PHP_CodeSniffer/issues",
+                "source": "https://github.com/squizlabs/PHP_CodeSniffer",
+                "wiki": "https://github.com/squizlabs/PHP_CodeSniffer/wiki"
+            },
             "time": "2018-11-07T22:31:41+00:00"
         },
         {
@@ -4070,6 +4216,9 @@
             ],
             "description": "Symfony Filesystem Component",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/filesystem/tree/v2.8.52"
+            },
             "time": "2018-11-11T11:18:13+00:00"
         },
         {
@@ -4132,6 +4281,9 @@
                 "polyfill",
                 "portable"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.20.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4216,6 +4368,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.20.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4297,6 +4452,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.20.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4374,6 +4532,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.20.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4447,6 +4608,9 @@
                 "portable",
                 "shim"
             ],
+            "support": {
+                "source": "https://github.com/symfony/polyfill-php72/tree/v1.20.0"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4505,6 +4669,9 @@
             ],
             "description": "Symfony Process Component",
             "homepage": "https://symfony.com",
+            "support": {
+                "source": "https://github.com/symfony/process/tree/v3.4.46"
+            },
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4569,6 +4736,10 @@
                 "collection",
                 "laravel"
             ],
+            "support": {
+                "issues": "https://github.com/tighten/collect/issues",
+                "source": "https://github.com/tighten/collect/tree/v5.5.32"
+            },
             "time": "2018-01-25T19:26:27+00:00"
         },
         {
@@ -4613,6 +4784,10 @@
             ],
             "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
             "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
+            "support": {
+                "issues": "https://github.com/tijsverkoyen/CssToInlineStyles/issues",
+                "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/master"
+            },
             "time": "2014-05-05T09:15:31+00:00"
         }
     ],
