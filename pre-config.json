@@ -29,6 +29,9 @@
 			"AllowDefaultAccountForUser": true,
 			"AutocreateMailAccountOnNewUserFirstLogin": true
 		},
+		"MailWebclient": {
+			"AllowSearchMessagesBySubject": true
+		},
 		"ChangePasswordWebclient": {
 			"Disabled": true
 		},
