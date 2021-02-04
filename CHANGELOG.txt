@@ -1,3 +1,10 @@
+[8.5.5]
+[+] Unified inbox
+[*] Various bugfixes
+
+[8.5.4]
+[*] Addressing DAV-related security issue
+
 [8.5.3]
 [+] Event invitation mails are now sent by DAV server, regardless of client used 
 [+] ContentSecurityPolicy feature revised, modules can add their handlers for it
