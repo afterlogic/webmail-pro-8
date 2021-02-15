@@ -1,5 +1,5 @@
 [8.6.0]
-[+] Unified inbox
+[+] Unified inbox 
 [*] Various bugfixes
 
 [8.5.4]
