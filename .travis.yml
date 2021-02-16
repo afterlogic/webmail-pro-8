@@ -27,6 +27,6 @@ env:
   global:
   - PRODUCT_NAME=webmail-pro
   - PLESK_PRODUCT_TITLE="WebMail Pro"
-  - PLESK_PRODUCT_FULLTITLE="Afterlogic WebMail Pro"
+  - PLESK_PRODUCT_FULLTITLE="AfterLogic WebMail Pro"
   - PLESK_PRODUCT_WEBSITE=https://www.afterlogic.com/webmail-client
   - PLESK_PRODUCT_DOWNLOAD=https://www.afterlogic.com/download/webmail-pro
