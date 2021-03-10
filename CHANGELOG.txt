@@ -1,3 +1,6 @@
+[8.7.0]
+[+] Added support of Gmail oAuth authentication
+
 [8.6.0]
 [+] Unified inbox 
 [*] Various bugfixes
