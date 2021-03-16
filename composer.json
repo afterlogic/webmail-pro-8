@@ -24,7 +24,7 @@
 		"afterlogic/aurora-module-personal-contacts": "~0.9.0",
 		"afterlogic/aurora-module-core": "~0.9.0",
 		"afterlogic/aurora-module-core-extender": "~0.9.0",
-		"afterlogic/aurora-module-webclient-core": "^0.9.38",
+		"afterlogic/aurora-module-webclient-core": "0.9.124",
 		"afterlogic/aurora-module-mobile-webclient-core": "~0.9.0",
 		"afterlogic/aurora-module-dav": "~0.9.0",
 		"afterlogic/aurora-module-dav-contacts": "~0.9.0",
