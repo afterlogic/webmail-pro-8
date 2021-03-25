@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f8f4fdc58e56a429051628b4b21a82fd",
+    "content-hash": "9335fe23daabf9222afb91ffc795606b",
     "packages": [
         {
             "name": "afterlogic/aurora-dev-tools",
@@ -505,6 +505,30 @@
                 "installer-name": "FilesZipFolder"
             },
             "time": "2019-04-26T11:38:59+00:00"
+        },
+        {
+            "name": "afterlogic/aurora-module-gmail-connector",
+            "version": "0.9.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/afterlogic/aurora-module-gmail-connector",
+                "reference": "tags/0.9.2"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/afterlogic/aurora-module-gmail-connector/archive/0.9.2.zip",
+                "reference": "tags/0.9.2",
+                "shasum": null
+            },
+            "require": {
+                "afterlogic/aurora-framework": "~0.9.0",
+                "php": ">=5.4.0"
+            },
+            "type": "aurora-module",
+            "extra": {
+                "installer-name": "GMailConnector"
+            },
+            "time": "2021-03-18T13:33:46+00:00"
         },
         {
             "name": "afterlogic/aurora-module-google",
