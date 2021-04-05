@@ -1288,16 +1288,16 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-calendar",
-            "version": "0.9.35",
+            "version": "0.9.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-calendar",
-                "reference": "tags/0.9.35"
+                "reference": "tags/0.9.36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.9.35.zip",
-                "reference": "tags/0.9.35"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.9.36.zip",
+                "reference": "tags/0.9.36"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0"
@@ -1306,7 +1306,7 @@
             "extra": {
                 "installer-name": "CalendarWebclient"
             },
-            "time": "2021-04-01T11:14:46+00:00"
+            "time": "2021-04-05T12:43:23+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-change-password",
@@ -1333,16 +1333,16 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-contacts",
-            "version": "0.9.43",
+            "version": "0.9.44",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-contacts",
-                "reference": "tags/0.9.43"
+                "reference": "tags/0.9.44"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-contacts/archive/0.9.43.zip",
-                "reference": "tags/0.9.43"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-contacts/archive/0.9.44.zip",
+                "reference": "tags/0.9.44"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -1352,20 +1352,20 @@
             "extra": {
                 "installer-name": "ContactsWebclient"
             },
-            "time": "2020-10-03T06:32:43+00:00"
+            "time": "2021-04-05T12:43:02+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core",
-            "version": "0.9.132",
+            "version": "0.9.133",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-core",
-                "reference": "tags/0.9.132"
+                "reference": "tags/0.9.133"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.9.132.zip",
-                "reference": "tags/0.9.132"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.9.133.zip",
+                "reference": "tags/0.9.133"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -1375,7 +1375,7 @@
             "extra": {
                 "installer-name": "CoreWebclient"
             },
-            "time": "2021-04-02T08:24:35+00:00"
+            "time": "2021-04-05T13:50:30+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
@@ -4287,20 +4287,6 @@
                 "polyfill",
                 "portable"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-07T16:49:33+00:00"
         },
         {
@@ -4371,20 +4357,6 @@
                 "portable",
                 "shim"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
@@ -4452,20 +4424,6 @@
                 "portable",
                 "shim"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
@@ -4529,20 +4487,6 @@
                 "portable",
                 "shim"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-22T09:19:47+00:00"
         },
         {
@@ -4601,20 +4545,6 @@
                 "polyfill",
                 "portable",
                 "shim"
-            ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
             ],
             "time": "2021-01-07T16:49:33+00:00"
         },
@@ -4682,20 +4612,6 @@
                 "portable",
                 "shim"
             ],
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-07T16:49:33+00:00"
         },
         {
@@ -4741,20 +4657,6 @@
             ],
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
-            "funding": [
-                {
-                    "url": "https://symfony.com/sponsor",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://github.com/fabpot",
-                    "type": "github"
-                },
-                {
-                    "url": "https://tidelift.com/funding/github/packagist/symfony/symfony",
-                    "type": "tidelift"
-                }
-            ],
             "time": "2021-01-27T10:15:41+00:00"
         },
         {
