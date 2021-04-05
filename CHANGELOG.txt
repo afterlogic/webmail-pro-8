@@ -1,5 +1,4 @@
 [8.8.0]
-[+] Office document editor
 [+] IP whitelisting added for Recaptcha
 [+] EnableFailedLoginBlock records are now deleted after they expire
 [+] Added setting for hiding Logout link

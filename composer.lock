@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "45b10d8e226036446aa193f505190eb4",
+    "content-hash": "6b75cc2a1bfc4a4a0e24274cd6eea7e6",
     "packages": [
         {
             "name": "afterlogic/aurora-dev-tools",
@@ -199,16 +199,16 @@
         },
         {
             "name": "afterlogic/aurora-module-contacts",
-            "version": "0.9.74",
+            "version": "0.9.76",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-contacts",
-                "reference": "tags/0.9.74"
+                "reference": "tags/0.9.76"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.9.74.zip",
-                "reference": "tags/0.9.74"
+                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.9.76.zip",
+                "reference": "tags/0.9.76"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -219,7 +219,7 @@
             "extra": {
                 "installer-name": "Contacts"
             },
-            "time": "2021-01-22T06:20:35+00:00"
+            "time": "2021-04-05T11:26:44+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core",
@@ -1071,29 +1071,6 @@
                 "installer-name": "OEmbedFiles"
             },
             "time": "2021-04-05T07:11:19+00:00"
-        },
-        {
-            "name": "afterlogic/aurora-module-office-document-editor",
-            "version": "0.9.15",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/afterlogic/aurora-module-office-document-editor",
-                "reference": "tags/0.9.15"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-office-document-editor/archive/0.9.15.zip",
-                "reference": "tags/0.9.15"
-            },
-            "require": {
-                "afterlogic/aurora-framework": "~0.9.0",
-                "php": ">=5.4.0"
-            },
-            "type": "aurora-module",
-            "extra": {
-                "installer-name": "OfficeDocumentEditor"
-            },
-            "time": "2021-04-02T13:34:44+00:00"
         },
         {
             "name": "afterlogic/aurora-module-office-document-viewer",
