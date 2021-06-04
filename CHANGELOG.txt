@@ -1,3 +1,6 @@
+[8.8.2]
+[*] Various bugfixes
+
 [8.8.0]
 [+] IP whitelisting added for Recaptcha
 [+] EnableFailedLoginBlock records are now deleted after they expire
