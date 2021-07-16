@@ -37,7 +37,8 @@
 		},
 		"FilesWebclient": {
 			"ShowCommonSettings": true,
-			"ShowFilesApps": false
+			"ShowFilesApps": false,
+			"PublicLinksEnabled": false
 		},
 		"Calendar": {
 			"AllowTasks": true
