@@ -1,6 +1,10 @@
 {
 	"config": {
-		"minimum-stability": "dev"
+		"minimum-stability": "dev",
+		"preferred-install": {
+			"afterlogic/*": "source"
+		},
+		"platform-check": false
 	},
 	"repositories": [
 		{"type": "composer", "url":"https://afterlogic.com/composer/"}
