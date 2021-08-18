@@ -28,15 +28,15 @@
         },
         {
             "name": "afterlogic/aurora-framework",
-            "version": "0.10.20",
+            "version": "0.10.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-framework",
-                "reference": "tags/0.10.20"
+                "reference": "tags/0.10.25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.20.zip"
+                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.25.zip"
             },
             "require": {
                 "afterlogic/mailso": "^1.4",
@@ -58,7 +58,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2021-08-16T15:04:29+00:00"
+            "time": "2021-08-18T08:56:31+00:00"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -196,15 +196,15 @@
         },
         {
             "name": "afterlogic/aurora-module-contacts",
-            "version": "0.10.17",
+            "version": "0.10.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-contacts",
-                "reference": "tags/0.10.17"
+                "reference": "tags/0.10.18"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.17.zip"
+                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.18.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -215,19 +215,19 @@
             "extra": {
                 "installer-name": "Contacts"
             },
-            "time": "2021-08-13T14:38:18+00:00"
+            "time": "2021-08-17T15:27:58+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.10.14",
+            "version": "0.10.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.10.14"
+                "reference": "tags/0.10.19"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.14.zip"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.19.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -237,7 +237,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2021-08-17T08:21:26+00:00"
+            "time": "2021-08-17T19:17:44+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -1195,15 +1195,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-adminpanel",
-            "version": "0.10.22",
+            "version": "0.10.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel",
-                "reference": "tags/0.10.22"
+                "reference": "tags/0.10.23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel/archive/0.10.22.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel/archive/0.10.23.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1213,7 +1213,7 @@
             "extra": {
                 "installer-name": "AdminPanelWebclient"
             },
-            "time": "2021-08-17T07:20:15+00:00"
+            "time": "2021-08-18T08:55:09+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-branding",
@@ -1304,15 +1304,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-core",
-            "version": "0.10.10",
+            "version": "0.10.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-core",
-                "reference": "tags/0.10.10"
+                "reference": "tags/0.10.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.10.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.11.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1322,7 +1322,7 @@
             "extra": {
                 "installer-name": "CoreWebclient"
             },
-            "time": "2021-08-13T14:14:01+00:00"
+            "time": "2021-08-17T13:31:33+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
