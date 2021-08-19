@@ -28,15 +28,15 @@
         },
         {
             "name": "afterlogic/aurora-framework",
-            "version": "0.10.25",
+            "version": "0.10.29",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-framework",
-                "reference": "tags/0.10.25"
+                "reference": "tags/0.10.29"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.25.zip"
+                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.29.zip"
             },
             "require": {
                 "afterlogic/mailso": "^1.4",
@@ -58,7 +58,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2021-08-18T08:56:31+00:00"
+            "time": "2021-08-19T13:42:37+00:00"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -84,15 +84,15 @@
         },
         {
             "name": "afterlogic/aurora-module-activity-history",
-            "version": "0.10.7",
+            "version": "0.10.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-activity-history",
-                "reference": "tags/0.10.7"
+                "reference": "tags/0.10.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-activity-history/archive/0.10.7.zip"
+                "url": "https://github.com/afterlogic/aurora-module-activity-history/archive/0.10.8.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -102,7 +102,7 @@
             "extra": {
                 "installer-name": "ActivityHistory"
             },
-            "time": "2021-08-12T12:24:34+00:00"
+            "time": "2021-08-19T14:50:05+00:00"
         },
         {
             "name": "afterlogic/aurora-module-admin-auth",
@@ -196,15 +196,15 @@
         },
         {
             "name": "afterlogic/aurora-module-contacts",
-            "version": "0.10.18",
+            "version": "0.10.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-contacts",
-                "reference": "tags/0.10.18"
+                "reference": "tags/0.10.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.18.zip"
+                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.20.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -215,19 +215,19 @@
             "extra": {
                 "installer-name": "Contacts"
             },
-            "time": "2021-08-17T15:27:58+00:00"
+            "time": "2021-08-19T14:52:48+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.10.19",
+            "version": "0.10.22",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.10.19"
+                "reference": "tags/0.10.22"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.19.zip"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.22.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -237,7 +237,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2021-08-17T19:17:44+00:00"
+            "time": "2021-08-19T14:55:13+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -263,15 +263,15 @@
         },
         {
             "name": "afterlogic/aurora-module-cpanel-integrator",
-            "version": "0.10.11",
+            "version": "0.10.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-cpanel-integrator",
-                "reference": "tags/0.10.11"
+                "reference": "tags/0.10.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-cpanel-integrator/archive/0.10.11.zip"
+                "url": "https://github.com/afterlogic/aurora-module-cpanel-integrator/archive/0.10.13.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -283,7 +283,7 @@
             "extra": {
                 "installer-name": "CpanelIntegrator"
             },
-            "time": "2021-08-16T17:40:43+00:00"
+            "time": "2021-08-19T14:58:09+00:00"
         },
         {
             "name": "afterlogic/aurora-module-dav",
