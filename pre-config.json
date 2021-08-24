@@ -59,7 +59,7 @@
 			"Disabled": true
 		},
 		"LicensingWebclient": {
-			"TrialKeyLink": "<a href=\"https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8\" target=\"_blank\">https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-8</a>",
+			"TrialKeyLink": "<a href=\"https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-9\" target=\"_blank\">https://afterlogic.com/get-trial-key?productId=afterlogic-webmail-pro-9</a>",
 			"PermanentKeyLink": "<a href=\"https://afterlogic.com/purchase/webmail-pro\" target=\"_blank\">https://afterlogic.com/purchase/webmail-pro</a>"
 		},
 		"StandardLoginFormWebclient": {
@@ -113,7 +113,7 @@
 			"IncludePasswordInProfile": false
 		},
 		"Contacts": {
-			"ImportContactsLink": "https://afterlogic.com/docs/webmail-pro-8/frequently-asked-questions/importing-contacts"
+			"ImportContactsLink": "https://afterlogic.com/docs/webmail-pro/frequently-asked-questions/importing-contacts"
 		},
 		"S3Filestorage": {
 			"Disabled": true
