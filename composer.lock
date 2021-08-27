@@ -589,15 +589,15 @@
         },
         {
             "name": "afterlogic/aurora-module-licensing",
-            "version": "0.10.3",
+            "version": "0.10.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-licensing",
-                "reference": "tags/0.10.3"
+                "reference": "tags/0.10.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-licensing/archive/0.10.3.zip"
+                "url": "https://github.com/afterlogic/aurora-module-licensing/archive/0.10.4.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -607,7 +607,7 @@
             "extra": {
                 "installer-name": "Licensing"
             },
-            "time": "2021-08-11T14:07:28+00:00"
+            "time": "2021-08-27T07:13:02+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail",
