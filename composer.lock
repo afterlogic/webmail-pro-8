@@ -833,15 +833,15 @@
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-contacts",
-            "version": "0.10.1",
+            "version": "0.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-contacts",
-                "reference": "tags/0.10.1"
+                "reference": "tags/0.10.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-contacts/archive/0.10.1.zip"
+                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-contacts/archive/0.10.2.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -852,7 +852,7 @@
             "extra": {
                 "installer-name": "ContactsMobileWebclient"
             },
-            "time": "2021-07-02T12:38:58+00:00"
+            "time": "2021-10-08T10:00:28+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-core",
@@ -1742,15 +1742,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-oauth-integrator",
-            "version": "0.10.8",
+            "version": "0.10.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-oauth-integrator",
-                "reference": "tags/0.10.8"
+                "reference": "tags/0.10.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-oauth-integrator/archive/0.10.8.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-oauth-integrator/archive/0.10.9.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1760,7 +1760,7 @@
             "extra": {
                 "installer-name": "OAuthIntegratorWebclient"
             },
-            "time": "2021-10-04T07:58:05+00:00"
+            "time": "2021-10-07T11:20:58+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp",
