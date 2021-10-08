@@ -611,15 +611,15 @@
         },
         {
             "name": "afterlogic/aurora-module-mail",
-            "version": "0.10.34",
+            "version": "0.10.36",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mail",
-                "reference": "tags/0.10.34"
+                "reference": "tags/0.10.36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.10.34.zip"
+                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.10.36.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -630,7 +630,7 @@
             "extra": {
                 "installer-name": "Mail"
             },
-            "time": "2021-09-29T12:29:22+00:00"
+            "time": "2021-10-08T10:52:31+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail-auth-cpanel",
@@ -1591,15 +1591,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-login-form",
-            "version": "0.10.1",
+            "version": "0.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-mail-login-form",
-                "reference": "tags/0.10.1"
+                "reference": "tags/0.10.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-mail-login-form/archive/0.10.1.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-mail-login-form/archive/0.10.2.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1609,7 +1609,7 @@
             "extra": {
                 "installer-name": "MailLoginFormWebclient"
             },
-            "time": "2021-07-06T07:07:54+00:00"
+            "time": "2021-10-08T10:51:48+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-sensitivity-plugin",
