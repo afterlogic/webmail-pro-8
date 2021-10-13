@@ -40,7 +40,7 @@ git clone https://github.com/afterlogic/webmail-pro-8.git INSTALL_FOLDER_PATH
 	}.......
 ```
 
-2. Download `composer.phar` from [`https://getcomposer.org/composer-1.phar`](https://getcomposer.org/composer-1.phar)
+2. `composer.phar` file is available in repository, but you can download its latest version 2 from [`https://getcomposer.org/composer.phar`](https://getcomposer.org/composer.phar)
 
 3. Start the composer installation process by running the following from the command line:
     ```bash
@@ -59,17 +59,27 @@ git clone https://github.com/afterlogic/webmail-pro-8.git INSTALL_FOLDER_PATH
       ```bash
       npm install --global gulp-cli
       ```
+      then install the modules required for adminpanel to work 
+      ```bash
+      cd modules/AdminPanelWebclient/vue
+      npm install
+      npm install -g @quasar/cli
+      ```
 
-5. Now you can build static files
-    ```bash
-    gulp styles --themes Default,DeepForest,Funny,Sand
-    ```
-
-    ```bash
-    gulp js:min
-    ```
+5. Now you can build static files. Run the following commands in main directory
+      ```bash
+      gulp styles --themes Default,DeepForest,Funny,Sand
+      ```
+      ```bash
+      gulp js:min
+      ```
+      and build adminpanel 
+      ```bash
+      cd modules/AdminPanelWebclient/vue
+      npm run build-production
+      ```
   
-6. Now you are ready to open a URL pointing to the installation directory in your favorite web browser.
+6. Now you are ready to open a URL pointing to the installation directory in your favorite web browser. Be sure to add `/adminpanel/` to main URL to access admin interface.
 
 7. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail).
 
