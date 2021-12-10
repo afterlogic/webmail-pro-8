@@ -2,12 +2,12 @@ name: PHP Composer
 
 on:
   push:
-    branches: [ master ]
+    branches: [ 8.x.x-version ]
 
 jobs:
   build:
-
     runs-on: ubuntu-20.04
+    if: "startsWith(github.event.head_commit.message, 'version')"
 
     steps:
     - uses: actions/checkout@v2
