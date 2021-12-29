@@ -258,15 +258,15 @@
         },
         {
             "name": "afterlogic/aurora-module-cpanel-integrator",
-            "version": "0.9.67",
+            "version": "0.9.64",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-cpanel-integrator",
-                "reference": "tags/0.9.67"
+                "reference": "tags/0.9.64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-cpanel-integrator/archive/0.9.67.zip"
+                "url": "https://github.com/afterlogic/aurora-module-cpanel-integrator/archive/0.9.64.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
@@ -278,7 +278,7 @@
             "extra": {
                 "installer-name": "CpanelIntegrator"
             },
-            "time": "2021-10-27T06:17:29+00:00"
+            "time": "2021-08-23T15:40:22+00:00"
         },
         {
             "name": "afterlogic/aurora-module-dav",
