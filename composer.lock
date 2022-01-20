@@ -1072,26 +1072,26 @@
         },
         {
             "name": "afterlogic/aurora-module-personal-contacts",
-            "version": "0.9.26",
+            "version": "0.9.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-personal-contacts",
-                "reference": "tags/0.9.26"
+                "reference": "tags/0.9.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-personal-contacts/archive/0.9.26.zip"
+                "url": "https://github.com/afterlogic/aurora-module-personal-contacts/archive/0.9.20.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.9.0",
-                "afterlogic/aurora-module-contacts": "*",
+                "afterlogic/aurora-module-contacts": "~0.9.0",
                 "php": ">=5.4.0"
             },
             "type": "aurora-module",
             "extra": {
                 "installer-name": "PersonalContacts"
             },
-            "time": "2021-11-17T07:19:29+00:00"
+            "time": "2020-10-03T06:29:10+00:00"
         },
         {
             "name": "afterlogic/aurora-module-personalfiles",
