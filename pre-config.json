@@ -28,7 +28,8 @@
 				"DefaultSortOrder": "desc"
 			},
 			"AllowDefaultAccountForUser": true,
-			"AutocreateMailAccountOnNewUserFirstLogin": true
+			"AutocreateMailAccountOnNewUserFirstLogin": true,
+			"XOriginatingIPHeaderName": ""
 		},
 		"MailWebclient": {
 			"AllowSearchMessagesBySubject": true
