@@ -28,15 +28,15 @@
         },
         {
             "name": "afterlogic/aurora-framework",
-            "version": "0.10.52",
+            "version": "0.10.55",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-framework",
-                "reference": "tags/0.10.52"
+                "reference": "tags/0.10.55"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.52.zip"
+                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.55.zip"
             },
             "require": {
                 "afterlogic/mailso": "^1.4",
@@ -58,7 +58,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2022-02-15T13:45:46+00:00"
+            "time": "2022-03-15T12:43:38+00:00"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -150,15 +150,15 @@
         },
         {
             "name": "afterlogic/aurora-module-calendar",
-            "version": "0.10.14",
+            "version": "0.10.15",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-calendar",
-                "reference": "tags/0.10.14"
+                "reference": "tags/0.10.15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-calendar/archive/0.10.14.zip"
+                "url": "https://github.com/afterlogic/aurora-module-calendar/archive/0.10.15.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -169,7 +169,7 @@
             "extra": {
                 "installer-name": "Calendar"
             },
-            "time": "2022-02-17T13:29:19+00:00"
+            "time": "2022-03-18T06:38:51+00:00"
         },
         {
             "name": "afterlogic/aurora-module-calendar-meetings-plugin",
@@ -196,15 +196,15 @@
         },
         {
             "name": "afterlogic/aurora-module-contacts",
-            "version": "0.10.47",
+            "version": "0.10.52",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-contacts",
-                "reference": "tags/0.10.47"
+                "reference": "tags/0.10.52"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.47.zip"
+                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.52.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -215,19 +215,19 @@
             "extra": {
                 "installer-name": "Contacts"
             },
-            "time": "2022-02-18T13:01:10+00:00"
+            "time": "2022-03-21T05:29:25+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.10.33",
+            "version": "0.10.51",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.10.33"
+                "reference": "tags/0.10.51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.33.zip"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.51.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -237,7 +237,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2022-02-03T10:37:46+00:00"
+            "time": "2022-03-21T08:10:17+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -427,15 +427,15 @@
         },
         {
             "name": "afterlogic/aurora-module-files",
-            "version": "0.10.13",
+            "version": "0.10.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-files",
-                "reference": "tags/0.10.13"
+                "reference": "tags/0.10.16"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-files/archive/0.10.13.zip"
+                "url": "https://github.com/afterlogic/aurora-module-files/archive/0.10.16.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -447,7 +447,7 @@
             "extra": {
                 "installer-name": "Files"
             },
-            "time": "2022-01-27T07:56:28+00:00"
+            "time": "2022-03-18T01:40:12+00:00"
         },
         {
             "name": "afterlogic/aurora-module-files-zipfolder",
@@ -566,15 +566,15 @@
         },
         {
             "name": "afterlogic/aurora-module-ios",
-            "version": "0.10.2",
+            "version": "0.10.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-ios",
-                "reference": "tags/0.10.2"
+                "reference": "tags/0.10.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-ios/archive/0.10.2.zip"
+                "url": "https://github.com/afterlogic/aurora-module-ios/archive/0.10.4.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -585,7 +585,7 @@
             "extra": {
                 "installer-name": "Ios"
             },
-            "time": "2021-08-23T11:22:13+00:00"
+            "time": "2022-03-18T06:58:41+00:00"
         },
         {
             "name": "afterlogic/aurora-module-licensing",
@@ -611,15 +611,15 @@
         },
         {
             "name": "afterlogic/aurora-module-mail",
-            "version": "0.10.66",
+            "version": "0.10.69",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mail",
-                "reference": "tags/0.10.66"
+                "reference": "tags/0.10.69"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.10.66.zip"
+                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.10.69.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -630,7 +630,7 @@
             "extra": {
                 "installer-name": "Mail"
             },
-            "time": "2022-02-18T12:50:36+00:00"
+            "time": "2022-03-21T05:30:05+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail-auth-cpanel",
@@ -833,15 +833,15 @@
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-contacts",
-            "version": "0.10.2",
+            "version": "0.10.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-contacts",
-                "reference": "tags/0.10.2"
+                "reference": "tags/0.10.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-contacts/archive/0.10.2.zip"
+                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-contacts/archive/0.10.3.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -852,7 +852,7 @@
             "extra": {
                 "installer-name": "ContactsMobileWebclient"
             },
-            "time": "2021-10-08T10:00:28+00:00"
+            "time": "2022-03-14T09:23:01+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-core",
@@ -1078,15 +1078,15 @@
         },
         {
             "name": "afterlogic/aurora-module-personal-contacts",
-            "version": "0.10.7",
+            "version": "0.10.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-personal-contacts",
-                "reference": "tags/0.10.7"
+                "reference": "tags/0.10.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-personal-contacts/archive/0.10.7.zip"
+                "url": "https://github.com/afterlogic/aurora-module-personal-contacts/archive/0.10.8.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1097,19 +1097,19 @@
             "extra": {
                 "installer-name": "PersonalContacts"
             },
-            "time": "2022-02-14T11:44:10+00:00"
+            "time": "2022-03-21T05:31:50+00:00"
         },
         {
             "name": "afterlogic/aurora-module-personalfiles",
-            "version": "0.10.14",
+            "version": "0.10.17",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-personalfiles",
-                "reference": "tags/0.10.14"
+                "reference": "tags/0.10.17"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-personalfiles/archive/0.10.14.zip"
+                "url": "https://github.com/afterlogic/aurora-module-personalfiles/archive/0.10.17.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1122,7 +1122,7 @@
             "extra": {
                 "installer-name": "PersonalFiles"
             },
-            "time": "2022-02-18T13:27:36+00:00"
+            "time": "2022-03-17T10:23:07+00:00"
         },
         {
             "name": "afterlogic/aurora-module-s3-filestorage",
@@ -1195,15 +1195,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-adminpanel",
-            "version": "0.10.30",
+            "version": "0.10.35",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel",
-                "reference": "tags/0.10.30"
+                "reference": "tags/0.10.35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel/archive/0.10.30.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel/archive/0.10.35.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1213,7 +1213,7 @@
             "extra": {
                 "installer-name": "AdminPanelWebclient"
             },
-            "time": "2022-01-28T07:09:25+00:00"
+            "time": "2022-03-17T10:53:28+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-branding",
@@ -1239,15 +1239,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-calendar",
-            "version": "0.10.10",
+            "version": "0.10.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-calendar",
-                "reference": "tags/0.10.10"
+                "reference": "tags/0.10.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.10.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.11.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0"
@@ -1256,7 +1256,7 @@
             "extra": {
                 "installer-name": "CalendarWebclient"
             },
-            "time": "2022-01-28T07:11:25+00:00"
+            "time": "2022-03-16T09:04:15+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-change-password",
@@ -1282,15 +1282,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-contacts",
-            "version": "0.10.7",
+            "version": "0.10.13",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-contacts",
-                "reference": "tags/0.10.7"
+                "reference": "tags/0.10.13"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-contacts/archive/0.10.7.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-contacts/archive/0.10.13.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1300,19 +1300,19 @@
             "extra": {
                 "installer-name": "ContactsWebclient"
             },
-            "time": "2022-01-28T08:13:41+00:00"
+            "time": "2022-03-21T12:16:09+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core",
-            "version": "0.10.38",
+            "version": "0.10.41",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-core",
-                "reference": "tags/0.10.38"
+                "reference": "tags/0.10.41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.38.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.41.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1322,7 +1322,7 @@
             "extra": {
                 "installer-name": "CoreWebclient"
             },
-            "time": "2022-02-15T12:37:25+00:00"
+            "time": "2022-03-21T10:27:57+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
@@ -1439,15 +1439,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-files",
-            "version": "0.10.15",
+            "version": "0.10.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-files",
-                "reference": "tags/0.10.15"
+                "reference": "tags/0.10.20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-files/archive/0.10.15.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-files/archive/0.10.20.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1457,7 +1457,7 @@
             "extra": {
                 "installer-name": "FilesWebclient"
             },
-            "time": "2022-02-07T12:15:51+00:00"
+            "time": "2022-03-21T12:17:10+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-files-cut-copy-paste-plugin",
@@ -1570,15 +1570,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail",
-            "version": "0.10.38",
+            "version": "0.10.46",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-mail",
-                "reference": "tags/0.10.38"
+                "reference": "tags/0.10.46"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-mail/archive/0.10.38.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-mail/archive/0.10.46.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0"
@@ -1587,7 +1587,7 @@
             "extra": {
                 "installer-name": "MailWebclient"
             },
-            "time": "2022-02-17T07:59:49+00:00"
+            "time": "2022-03-21T12:26:05+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-login-form",
@@ -1786,15 +1786,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp-files",
-            "version": "0.10.6",
+            "version": "0.10.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp-files",
-                "reference": "tags/0.10.6"
+                "reference": "tags/0.10.8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp-files/archive/0.10.6.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp-files/archive/0.10.8.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1806,7 +1806,7 @@
             "extra": {
                 "installer-name": "OpenPgpFilesWebclient"
             },
-            "time": "2022-01-27T08:01:08+00:00"
+            "time": "2022-03-18T08:39:22+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-recaptcha-plugin",
@@ -1899,16 +1899,16 @@
         },
         {
             "name": "afterlogic/dav",
-            "version": "3.0.20",
+            "version": "3.0.32",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/dav.git",
-                "reference": "fb7d26c2aa04b22893ad51a5e278f21d0d1f7206"
+                "reference": "7980905f4f9a5fb50070658dcc8cf74c627d10cb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/afterlogic/dav/zipball/fb7d26c2aa04b22893ad51a5e278f21d0d1f7206",
-                "reference": "fb7d26c2aa04b22893ad51a5e278f21d0d1f7206",
+                "url": "https://api.github.com/repos/afterlogic/dav/zipball/7980905f4f9a5fb50070658dcc8cf74c627d10cb",
+                "reference": "7980905f4f9a5fb50070658dcc8cf74c627d10cb",
                 "shasum": ""
             },
             "require": {
@@ -1938,9 +1938,9 @@
             "homepage": "https://github.com/afterlogic/dav",
             "support": {
                 "issues": "https://github.com/afterlogic/dav/issues",
-                "source": "https://github.com/afterlogic/dav/tree/3.0.20"
+                "source": "https://github.com/afterlogic/dav/tree/3.0.32"
             },
-            "time": "2022-02-17T08:36:10+00:00"
+            "time": "2022-03-18T04:16:29+00:00"
         },
         {
             "name": "afterlogic/googleauthenticator",
@@ -2089,8 +2089,8 @@
             "autoload": {
                 "psr-4": {
                     "Sabre\\DAV\\": "lib/DAV/",
-                    "Sabre\\DAVACL\\": "lib/DAVACL/",
                     "Sabre\\CalDAV\\": "lib/CalDAV/",
+                    "Sabre\\DAVACL\\": "lib/DAVACL/",
                     "Sabre\\CardDAV\\": "lib/CardDAV/"
                 }
             },
@@ -2213,16 +2213,16 @@
         },
         {
             "name": "composer/installers",
-            "version": "v2.0.1",
+            "version": "v2.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "a241e78aaeb09781f5f5b92ac01ffd13ab43e5e8"
+                "reference": "75e5ef05436c90ac565a48176cc7465991908352"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/a241e78aaeb09781f5f5b92ac01ffd13ab43e5e8",
-                "reference": "a241e78aaeb09781f5f5b92ac01ffd13ab43e5e8",
+                "url": "https://api.github.com/repos/composer/installers/zipball/75e5ef05436c90ac565a48176cc7465991908352",
+                "reference": "75e5ef05436c90ac565a48176cc7465991908352",
                 "shasum": ""
             },
             "require": {
@@ -2242,7 +2242,8 @@
                 "class": "Composer\\Installers\\Plugin",
                 "branch-alias": {
                     "dev-main": "2.x-dev"
-                }
+                },
+                "plugin-modifies-install-path": true
             },
             "autoload": {
                 "psr-4": {
@@ -2336,7 +2337,7 @@
             ],
             "support": {
                 "issues": "https://github.com/composer/installers/issues",
-                "source": "https://github.com/composer/installers/tree/v2.0.1"
+                "source": "https://github.com/composer/installers/tree/v2.1.0"
             },
             "funding": [
                 {
@@ -2352,7 +2353,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-09-13T08:21:20+00:00"
+            "time": "2022-03-18T12:27:54+00:00"
         },
         {
             "name": "doctrine/cache",
@@ -2455,16 +2456,16 @@
         },
         {
             "name": "doctrine/dbal",
-            "version": "2.13.7",
+            "version": "2.13.8",
             "source": {
                 "type": "git",
                 "url": "https://github.com/doctrine/dbal.git",
-                "reference": "6e22f6012b42d7932674857989fcf184e9e9b1c3"
+                "reference": "dc9b3c3c8592c935a6e590441f9abc0f9eba335b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/doctrine/dbal/zipball/6e22f6012b42d7932674857989fcf184e9e9b1c3",
-                "reference": "6e22f6012b42d7932674857989fcf184e9e9b1c3",
+                "url": "https://api.github.com/repos/doctrine/dbal/zipball/dc9b3c3c8592c935a6e590441f9abc0f9eba335b",
+                "reference": "dc9b3c3c8592c935a6e590441f9abc0f9eba335b",
                 "shasum": ""
             },
             "require": {
@@ -2477,13 +2478,13 @@
             "require-dev": {
                 "doctrine/coding-standard": "9.0.0",
                 "jetbrains/phpstorm-stubs": "2021.1",
-                "phpstan/phpstan": "1.3.0",
-                "phpunit/phpunit": "^7.5.20|^8.5|9.5.11",
+                "phpstan/phpstan": "1.4.6",
+                "phpunit/phpunit": "^7.5.20|^8.5|9.5.16",
                 "psalm/plugin-phpunit": "0.16.1",
                 "squizlabs/php_codesniffer": "3.6.2",
                 "symfony/cache": "^4.4",
                 "symfony/console": "^2.0.5|^3.0|^4.0|^5.0",
-                "vimeo/psalm": "4.16.1"
+                "vimeo/psalm": "4.22.0"
             },
             "suggest": {
                 "symfony/console": "For helpful console commands such as SQL execution and import of files."
@@ -2544,7 +2545,7 @@
             ],
             "support": {
                 "issues": "https://github.com/doctrine/dbal/issues",
-                "source": "https://github.com/doctrine/dbal/tree/2.13.7"
+                "source": "https://github.com/doctrine/dbal/tree/2.13.8"
             },
             "funding": [
                 {
@@ -2560,7 +2561,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-01-06T09:08:04+00:00"
+            "time": "2022-03-09T15:25:46+00:00"
         },
         {
             "name": "doctrine/deprecations",
@@ -3032,12 +3033,12 @@
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "GuzzleHttp\\Promise\\": "src/"
-                },
                 "files": [
                     "src/functions_include.php"
-                ]
+                ],
+                "psr-4": {
+                    "GuzzleHttp\\Promise\\": "src/"
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -3091,16 +3092,16 @@
         },
         {
             "name": "guzzlehttp/psr7",
-            "version": "1.8.3",
+            "version": "1.8.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/psr7.git",
-                "reference": "1afdd860a2566ed3c2b0b4a3de6e23434a79ec85"
+                "reference": "337e3ad8e5716c15f9657bd214d16cc5e69df268"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/psr7/zipball/1afdd860a2566ed3c2b0b4a3de6e23434a79ec85",
-                "reference": "1afdd860a2566ed3c2b0b4a3de6e23434a79ec85",
+                "url": "https://api.github.com/repos/guzzle/psr7/zipball/337e3ad8e5716c15f9657bd214d16cc5e69df268",
+                "reference": "337e3ad8e5716c15f9657bd214d16cc5e69df268",
                 "shasum": ""
             },
             "require": {
@@ -3181,7 +3182,7 @@
             ],
             "support": {
                 "issues": "https://github.com/guzzle/psr7/issues",
-                "source": "https://github.com/guzzle/psr7/tree/1.8.3"
+                "source": "https://github.com/guzzle/psr7/tree/1.8.5"
             },
             "funding": [
                 {
@@ -3197,7 +3198,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-10-05T13:56:00+00:00"
+            "time": "2022-03-20T21:51:18+00:00"
         },
         {
             "name": "illuminate/cache",
@@ -5166,16 +5167,16 @@
         },
         {
             "name": "symfony/console",
-            "version": "v5.4.3",
+            "version": "v5.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "a2a86ec353d825c75856c6fd14fac416a7bdb6b8"
+                "reference": "d8111acc99876953f52fe16d4c50eb60940d49ad"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/a2a86ec353d825c75856c6fd14fac416a7bdb6b8",
-                "reference": "a2a86ec353d825c75856c6fd14fac416a7bdb6b8",
+                "url": "https://api.github.com/repos/symfony/console/zipball/d8111acc99876953f52fe16d4c50eb60940d49ad",
+                "reference": "d8111acc99876953f52fe16d4c50eb60940d49ad",
                 "shasum": ""
             },
             "require": {
@@ -5245,7 +5246,7 @@
                 "terminal"
             ],
             "support": {
-                "source": "https://github.com/symfony/console/tree/v5.4.3"
+                "source": "https://github.com/symfony/console/tree/v5.4.5"
             },
             "funding": [
                 {
@@ -5261,7 +5262,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-01-26T16:28:35+00:00"
+            "time": "2022-02-24T12:45:35+00:00"
         },
         {
             "name": "symfony/deprecation-contracts",
@@ -5448,7 +5449,7 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
@@ -5480,12 +5481,12 @@
                 }
             },
             "autoload": {
-                "psr-4": {
-                    "Symfony\\Polyfill\\Ctype\\": ""
-                },
                 "files": [
                     "bootstrap.php"
-                ]
+                ],
+                "psr-4": {
+                    "Symfony\\Polyfill\\Ctype\\": ""
+                }
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -5510,7 +5511,7 @@
                 "portable"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -5530,7 +5531,7 @@
         },
         {
             "name": "symfony/polyfill-intl-grapheme",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-grapheme.git",
@@ -5591,7 +5592,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-grapheme/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-intl-grapheme/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -5611,7 +5612,7 @@
         },
         {
             "name": "symfony/polyfill-intl-idn",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-idn.git",
@@ -5678,7 +5679,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -5698,7 +5699,7 @@
         },
         {
             "name": "symfony/polyfill-intl-normalizer",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-intl-normalizer.git",
@@ -5762,7 +5763,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -5782,7 +5783,7 @@
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
@@ -5845,7 +5846,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -5865,7 +5866,7 @@
         },
         {
             "name": "symfony/polyfill-php72",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php72.git",
@@ -5921,7 +5922,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php72/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-php72/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -5941,7 +5942,7 @@
         },
         {
             "name": "symfony/polyfill-php73",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php73.git",
@@ -6000,7 +6001,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php73/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-php73/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -6020,16 +6021,16 @@
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.24.0",
+            "version": "v1.25.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "57b712b08eddb97c762a8caa32c84e037892d2e9"
+                "reference": "4407588e0d3f1f52efb65fbe92babe41f37fe50c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/57b712b08eddb97c762a8caa32c84e037892d2e9",
-                "reference": "57b712b08eddb97c762a8caa32c84e037892d2e9",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/4407588e0d3f1f52efb65fbe92babe41f37fe50c",
+                "reference": "4407588e0d3f1f52efb65fbe92babe41f37fe50c",
                 "shasum": ""
             },
             "require": {
@@ -6083,7 +6084,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.24.0"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.25.0"
             },
             "funding": [
                 {
@@ -6099,20 +6100,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-09-13T13:58:33+00:00"
+            "time": "2022-03-04T08:16:47+00:00"
         },
         {
             "name": "symfony/process",
-            "version": "v5.4.3",
+            "version": "v5.4.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/process.git",
-                "reference": "553f50487389a977eb31cf6b37faae56da00f753"
+                "reference": "95440409896f90a5f85db07a32b517ecec17fa4c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/process/zipball/553f50487389a977eb31cf6b37faae56da00f753",
-                "reference": "553f50487389a977eb31cf6b37faae56da00f753",
+                "url": "https://api.github.com/repos/symfony/process/zipball/95440409896f90a5f85db07a32b517ecec17fa4c",
+                "reference": "95440409896f90a5f85db07a32b517ecec17fa4c",
                 "shasum": ""
             },
             "require": {
@@ -6145,7 +6146,7 @@
             "description": "Executes commands in sub-processes",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/process/tree/v5.4.3"
+                "source": "https://github.com/symfony/process/tree/v5.4.5"
             },
             "funding": [
                 {
@@ -6161,7 +6162,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-01-26T16:28:35+00:00"
+            "time": "2022-01-30T18:16:22+00:00"
         },
         {
             "name": "symfony/service-contracts",
@@ -6279,12 +6280,12 @@
             },
             "type": "library",
             "autoload": {
-                "psr-4": {
-                    "Symfony\\Component\\String\\": ""
-                },
                 "files": [
                     "Resources/functions.php"
                 ],
+                "psr-4": {
+                    "Symfony\\Component\\String\\": ""
+                },
                 "exclude-from-classmap": [
                     "/Tests/"
                 ]
@@ -6334,16 +6335,16 @@
         },
         {
             "name": "symfony/translation",
-            "version": "v5.4.3",
+            "version": "v5.4.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/translation.git",
-                "reference": "a9dd7403232c61e87e27fb306bbcd1627f245d70"
+                "reference": "a7ca9fdfffb0174209440c2ffa1dee228e15d95b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/translation/zipball/a9dd7403232c61e87e27fb306bbcd1627f245d70",
-                "reference": "a9dd7403232c61e87e27fb306bbcd1627f245d70",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/a7ca9fdfffb0174209440c2ffa1dee228e15d95b",
+                "reference": "a7ca9fdfffb0174209440c2ffa1dee228e15d95b",
                 "shasum": ""
             },
             "require": {
@@ -6411,7 +6412,7 @@
             "description": "Provides tools to internationalize your application",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/translation/tree/v5.4.3"
+                "source": "https://github.com/symfony/translation/tree/v5.4.6"
             },
             "funding": [
                 {
@@ -6427,7 +6428,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-01-07T00:28:17+00:00"
+            "time": "2022-03-02T12:56:28+00:00"
         },
         {
             "name": "symfony/translation-contracts",
