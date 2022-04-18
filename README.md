@@ -19,7 +19,7 @@ During installation process you will need:
     
     **Note!** npm 3.0 or later is required
 
-1. Download and unpack the latest version of Webmail Pro 8 into your installation root directory
+1. Download and unpack the latest version of Webmail Pro into your installation root directory
 [`https://github.com/afterlogic/webmail-pro-8/archive/latest.zip`](https://github.com/afterlogic/webmail-pro-8/archive/latest.zip)
 
 We're assuming that you wish to install the latest stable version of the product. If you're looking for the latest code (e.g., to contribute changes), the following steps needs to be taken:
@@ -48,8 +48,6 @@ git clone https://github.com/afterlogic/webmail-pro-8.git INSTALL_FOLDER_PATH
     ```
 
     **NB:** It is strongly advised to run composer as non-root user. Otherwise, third-party scripts will be run with root permissions and composer issues a warning that it's not safe. We recommend running the script under the same user web server runs under.
-
-    Make sure you're using PHP 7.2.5 - 7.4.\*. Building with PHP 8 is not currently supported.
 
 4. Next, you need to build static files for the current module set.
 
@@ -83,7 +81,7 @@ git clone https://github.com/afterlogic/webmail-pro-8.git INSTALL_FOLDER_PATH
   
 6. Now you are ready to open a URL pointing to the installation directory in your favorite web browser. Be sure to add `/adminpanel/` to main URL to access admin interface.
 
-7. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-pro-8/configuring-webmail).
+7. Upon installing the product, you'll need to [configure your installation](https://afterlogic.com/docs/webmail-pro/configuring-webmail).
 
 **IMPORTANT:**
 
@@ -98,7 +96,7 @@ To enable automatic redirect from **http** to **https**, set **RedirectToHttps**
 
 **Protecting data directory**
 
-All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-pro-8/security/protecting-data-directory) to make sure that nobody can access that directory over the Internet directly. 
+All configuration files of the application and user data are stored in data directory, so it's important to [protect data directory](https://afterlogic.com/docs/webmail-pro/security/protecting-data-directory) to make sure that nobody can access that directory over the Internet directly. 
 
 # Licensing
 This product is licensed under Afterlogic Software License. The modules and other packages included in this product as dependencies are licensed under their own licenses.
