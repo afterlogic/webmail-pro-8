@@ -105,7 +105,7 @@
 		"afterlogic/aurora-module-webclient-openpgp-files": "~0.10.0",
 		"afterlogic/aurora-module-gmail-connector": "~0.10.0",
 		"aws/aws-sdk-php": "3.178.6",
-		"afterlogic/dav": "~3.0.0"
+		"afterlogic/dav": "~4.0.0"
 		
 	},
 	"scripts": {
