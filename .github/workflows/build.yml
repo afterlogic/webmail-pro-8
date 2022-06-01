@@ -15,7 +15,7 @@ jobs:
     - name: Setup PHP version
       uses: shivammathur/setup-php@v2
       with:
-        php-version: 7.3
+        php-version: 7.4
 
     - name: Install Composer dependencies
       run: composer install
@@ -62,6 +62,30 @@ jobs:
 
     - name: PLESK - Upload plesk package
       run: ./travis-plesk-builder.sh -t upload
+      env:
+        PRODUCT_NAME: ${{ secrets.PRODUCT_NAME }}
+        FTP_USER: ${{ secrets.FTP_USER }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+    - name: DEMO - prepare demo package
+      run: ./builder.sh -t prepare-demo
+      env:
+        PRODUCT_NAME: ${{ secrets.PRODUCT_NAME }}
+        FTP_USER: ${{ secrets.FTP_USER }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
+
+    - name: DEMO - build demo static files
+      run: ./builder.sh -t build
+      env:
+        PRODUCT_NAME: ${{ secrets.PRODUCT_NAME }}
+
+    - name: DEMO - build demo package
+      run: ./builder.sh -t pack
+      env:
+        PRODUCT_NAME: ${{ secrets.PRODUCT_NAME }}
+
+    - name: DEMO - upload demo package
+      run: ./builder.sh -t upload-demo
       env:
         PRODUCT_NAME: ${{ secrets.PRODUCT_NAME }}
         FTP_USER: ${{ secrets.FTP_USER }}
