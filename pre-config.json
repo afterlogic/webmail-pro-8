@@ -12,7 +12,7 @@
 			"DefaultAnonymScreenHash": "login",
 			"DefaultUserScreenHash": "mail",
 			"AllowMobile": true,
-			"ThemeList": ["Default", "DeepForest", "Funny", "Sand"]
+			"ThemeList": ["Default", "DefaultDark", "DeepForest", "Funny", "Sand"]
 		},
 		"SessionTimeoutWebclient": {
 			"Disabled": true
