@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f07e57c3ff102f9e146ce4b8e35af44f",
+    "content-hash": "c8de7fc46166f434efc570fca59f9730",
     "packages": [
         {
             "name": "afterlogic/aurora-dev-tools",
@@ -150,15 +150,15 @@
         },
         {
             "name": "afterlogic/aurora-module-calendar",
-            "version": "0.10.24",
+            "version": "0.10.25",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-calendar",
-                "reference": "tags/0.10.24"
+                "reference": "tags/0.10.25"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-calendar/archive/0.10.24.zip"
+                "url": "https://github.com/afterlogic/aurora-module-calendar/archive/0.10.25.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -169,7 +169,7 @@
             "extra": {
                 "installer-name": "Calendar"
             },
-            "time": "2022-06-15T07:57:51+00:00"
+            "time": "2022-07-07T12:35:04+00:00"
         },
         {
             "name": "afterlogic/aurora-module-calendar-meetings-plugin",
@@ -196,15 +196,15 @@
         },
         {
             "name": "afterlogic/aurora-module-contacts",
-            "version": "0.10.71",
+            "version": "0.10.72",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-contacts",
-                "reference": "tags/0.10.71"
+                "reference": "tags/0.10.72"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.71.zip"
+                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.72.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -215,19 +215,19 @@
             "extra": {
                 "installer-name": "Contacts"
             },
-            "time": "2022-06-29T18:10:30+00:00"
+            "time": "2022-07-11T07:46:19+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.10.66",
+            "version": "0.10.68",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.10.66"
+                "reference": "tags/0.10.68"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.66.zip"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.68.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -237,7 +237,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2022-06-29T12:11:28+00:00"
+            "time": "2022-07-07T14:02:20+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -379,28 +379,6 @@
                 "installer-name": "DropboxFilestorage"
             },
             "time": "2022-01-27T08:29:12+00:00"
-        },
-        {
-            "name": "afterlogic/aurora-module-eav-object-viewer",
-            "version": "0.10.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/afterlogic/aurora-module-eav-object-viewer",
-                "reference": "tags/0.10.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-eav-object-viewer/archive/0.10.0.zip"
-            },
-            "require": {
-                "afterlogic/aurora-framework": "~0.10.0",
-                "php": ">=5.4.0"
-            },
-            "type": "aurora-module",
-            "extra": {
-                "installer-name": "EavObjectViewer"
-            },
-            "time": "2021-07-01T13:24:32+00:00"
         },
         {
             "name": "afterlogic/aurora-module-facebook",
@@ -588,15 +566,15 @@
         },
         {
             "name": "afterlogic/aurora-module-licensing",
-            "version": "0.10.4",
+            "version": "0.10.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-licensing",
-                "reference": "tags/0.10.4"
+                "reference": "tags/0.10.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-licensing/archive/0.10.4.zip"
+                "url": "https://github.com/afterlogic/aurora-module-licensing/archive/0.10.5.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -606,7 +584,7 @@
             "extra": {
                 "installer-name": "Licensing"
             },
-            "time": "2021-08-27T07:13:02+00:00"
+            "time": "2022-07-07T13:39:32+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail",
@@ -745,15 +723,15 @@
         },
         {
             "name": "afterlogic/aurora-module-mail-save-attachments-to-files-plugin",
-            "version": "0.10.0",
+            "version": "0.10.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mail-save-attachments-to-files-plugin",
-                "reference": "tags/0.10.0"
+                "reference": "tags/0.10.2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mail-save-attachments-to-files-plugin/archive/0.10.0.zip"
+                "url": "https://github.com/afterlogic/aurora-module-mail-save-attachments-to-files-plugin/archive/0.10.2.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0"
@@ -762,7 +740,7 @@
             "extra": {
                 "installer-name": "MailSaveAttachmentsToFilesPlugin"
             },
-            "time": "2021-07-01T13:24:40+00:00"
+            "time": "2022-07-08T08:55:03+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail-save-message-as-pdf-plugin",
@@ -1100,15 +1078,15 @@
         },
         {
             "name": "afterlogic/aurora-module-personal-contacts",
-            "version": "0.10.10",
+            "version": "0.10.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-personal-contacts",
-                "reference": "tags/0.10.10"
+                "reference": "tags/0.10.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-personal-contacts/archive/0.10.10.zip"
+                "url": "https://github.com/afterlogic/aurora-module-personal-contacts/archive/0.10.11.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1119,7 +1097,7 @@
             "extra": {
                 "installer-name": "PersonalContacts"
             },
-            "time": "2022-04-29T05:35:02+00:00"
+            "time": "2022-07-08T12:00:30+00:00"
         },
         {
             "name": "afterlogic/aurora-module-personalfiles",
@@ -1217,15 +1195,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-adminpanel",
-            "version": "0.10.47",
+            "version": "0.10.48",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel",
-                "reference": "tags/0.10.47"
+                "reference": "tags/0.10.48"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel/archive/0.10.47.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-adminpanel/archive/0.10.48.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1235,7 +1213,7 @@
             "extra": {
                 "installer-name": "AdminPanelWebclient"
             },
-            "time": "2022-05-26T11:34:04+00:00"
+            "time": "2022-07-06T14:14:34+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-branding",
@@ -1261,15 +1239,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-calendar",
-            "version": "0.10.22",
+            "version": "0.10.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-calendar",
-                "reference": "tags/0.10.22"
+                "reference": "tags/0.10.26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.22.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.26.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0"
@@ -1278,7 +1256,7 @@
             "extra": {
                 "installer-name": "CalendarWebclient"
             },
-            "time": "2022-06-28T16:07:20+00:00"
+            "time": "2022-07-08T12:42:56+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-change-password",
@@ -1304,15 +1282,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-contacts",
-            "version": "0.10.20",
+            "version": "0.10.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-contacts",
-                "reference": "tags/0.10.20"
+                "reference": "tags/0.10.21"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-contacts/archive/0.10.20.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-contacts/archive/0.10.21.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1322,19 +1300,19 @@
             "extra": {
                 "installer-name": "ContactsWebclient"
             },
-            "time": "2022-07-04T07:10:42+00:00"
+            "time": "2022-07-07T14:18:45+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core",
-            "version": "0.10.54",
+            "version": "0.10.58",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-core",
-                "reference": "tags/0.10.54"
+                "reference": "tags/0.10.58"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.54.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.58.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1344,19 +1322,19 @@
             "extra": {
                 "installer-name": "CoreWebclient"
             },
-            "time": "2022-06-29T19:10:33+00:00"
+            "time": "2022-07-08T13:21:11+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
-            "version": "0.10.10",
+            "version": "0.10.11",
             "source": {
                 "type": "git",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
-                "reference": "tags/0.10.10"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core-jscrypto-plugin",
+                "reference": "tags/0.10.11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin/archive/0.10.10.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core-jscrypto-plugin/archive/0.10.11.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1369,7 +1347,7 @@
             "extra": {
                 "installer-name": "CoreParanoidEncryptionWebclientPlugin"
             },
-            "time": "2022-06-28T16:06:20+00:00"
+            "time": "2022-07-07T13:22:29+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-dropbox-auth",
@@ -1392,28 +1370,6 @@
                 "installer-name": "DropboxAuthWebclient"
             },
             "time": "2022-01-27T08:28:17+00:00"
-        },
-        {
-            "name": "afterlogic/aurora-module-webclient-external-clients-login-form",
-            "version": "0.10.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-oauth-integrator",
-                "reference": "tags/0.10.0"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-oauth-integrator/archive/0.10.0.zip"
-            },
-            "require": {
-                "afterlogic/aurora-framework": "~0.10.0",
-                "php": ">=5.4.0"
-            },
-            "type": "aurora-module",
-            "extra": {
-                "installer-name": "ExternalClientsLoginFormWebclient"
-            },
-            "time": "2021-07-01T13:24:32+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-facebook-auth",
@@ -1439,15 +1395,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-file-viewer-plugin",
-            "version": "0.10.0",
+            "version": "0.10.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-file-viewer-plugin",
-                "reference": "tags/0.10.0"
+                "reference": "tags/0.10.1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-file-viewer-plugin/archive/0.10.0.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-file-viewer-plugin/archive/0.10.1.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1457,19 +1413,19 @@
             "extra": {
                 "installer-name": "FileViewerWebclientPlugin"
             },
-            "time": "2021-07-01T13:24:34+00:00"
+            "time": "2022-07-08T13:22:27+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-files",
-            "version": "0.10.31",
+            "version": "0.10.33",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-files",
-                "reference": "tags/0.10.31"
+                "reference": "tags/0.10.33"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-files/archive/0.10.31.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-files/archive/0.10.33.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1479,7 +1435,7 @@
             "extra": {
                 "installer-name": "FilesWebclient"
             },
-            "time": "2022-06-19T18:41:17+00:00"
+            "time": "2022-07-08T08:53:53+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-files-cut-copy-paste-plugin",
@@ -1592,15 +1548,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail",
-            "version": "0.10.63",
+            "version": "0.10.64",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-mail",
-                "reference": "tags/0.10.63"
+                "reference": "tags/0.10.64"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-mail/archive/0.10.63.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-mail/archive/0.10.64.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0"
@@ -1609,7 +1565,7 @@
             "extra": {
                 "installer-name": "MailWebclient"
             },
-            "time": "2022-06-28T16:08:54+00:00"
+            "time": "2022-07-05T08:01:00+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-mail-login-form",
@@ -1786,15 +1742,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp",
-            "version": "0.10.11",
+            "version": "0.10.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp",
-                "reference": "tags/0.10.11"
+                "reference": "tags/0.10.12"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp/archive/0.10.11.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp/archive/0.10.12.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1804,7 +1760,7 @@
             "extra": {
                 "installer-name": "OpenPgpWebclient"
             },
-            "time": "2022-06-30T10:06:02+00:00"
+            "time": "2022-07-07T13:30:56+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp-files",
@@ -1921,16 +1877,16 @@
         },
         {
             "name": "afterlogic/dav",
-            "version": "4.0.19",
+            "version": "4.0.21",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/dav.git",
-                "reference": "ed7d225f69579274ef3fb8401c00b1e963ccfa1f"
+                "reference": "185e5fcdd8ef0797e54635d12942ec7c52a1abb7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/afterlogic/dav/zipball/ed7d225f69579274ef3fb8401c00b1e963ccfa1f",
-                "reference": "ed7d225f69579274ef3fb8401c00b1e963ccfa1f",
+                "url": "https://api.github.com/repos/afterlogic/dav/zipball/185e5fcdd8ef0797e54635d12942ec7c52a1abb7",
+                "reference": "185e5fcdd8ef0797e54635d12942ec7c52a1abb7",
                 "shasum": ""
             },
             "require": {
@@ -1960,9 +1916,9 @@
             "homepage": "https://github.com/afterlogic/dav",
             "support": {
                 "issues": "https://github.com/afterlogic/dav/issues",
-                "source": "https://github.com/afterlogic/dav/tree/4.0.19"
+                "source": "https://github.com/afterlogic/dav/tree/4.0.21"
             },
-            "time": "2022-06-30T10:54:33+00:00"
+            "time": "2022-07-08T14:04:59+00:00"
         },
         {
             "name": "afterlogic/googleauthenticator",
@@ -2107,16 +2063,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.229.2",
+            "version": "3.231.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "142a872fd7172bf5d067f4e30e4f89593296fc8f"
+                "reference": "9a7c2a8c4b7f95074749e1a7b575e6b4486bdcab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/142a872fd7172bf5d067f4e30e4f89593296fc8f",
-                "reference": "142a872fd7172bf5d067f4e30e4f89593296fc8f",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/9a7c2a8c4b7f95074749e1a7b575e6b4486bdcab",
+                "reference": "9a7c2a8c4b7f95074749e1a7b575e6b4486bdcab",
                 "shasum": ""
             },
             "require": {
@@ -2134,6 +2090,7 @@
                 "andrewsville/php-token-reflection": "^1.4",
                 "aws/aws-php-sns-message-validator": "~1.0",
                 "behat/behat": "~3.0",
+                "composer/composer": "^1.10.22",
                 "doctrine/cache": "~1.4",
                 "ext-dom": "*",
                 "ext-openssl": "*",
@@ -2192,9 +2149,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.229.2"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.231.2"
             },
-            "time": "2022-07-01T18:16:42+00:00"
+            "time": "2022-07-08T18:16:11+00:00"
         },
         {
             "name": "composer/installers",
@@ -4857,16 +4814,16 @@
         },
         {
             "name": "sabre/http",
-            "version": "5.1.4",
+            "version": "5.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sabre-io/http.git",
-                "reference": "84a83642c3b877da9d0e265fba7258157c0bdc37"
+                "reference": "164725c2d2e248384e5b6115510c545e9c47cff9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sabre-io/http/zipball/84a83642c3b877da9d0e265fba7258157c0bdc37",
-                "reference": "84a83642c3b877da9d0e265fba7258157c0bdc37",
+                "url": "https://api.github.com/repos/sabre-io/http/zipball/164725c2d2e248384e5b6115510c545e9c47cff9",
+                "reference": "164725c2d2e248384e5b6115510c545e9c47cff9",
                 "shasum": ""
             },
             "require": {
@@ -4916,7 +4873,7 @@
                 "issues": "https://github.com/sabre-io/http/issues",
                 "source": "https://github.com/fruux/sabre-http"
             },
-            "time": "2022-06-24T08:39:23+00:00"
+            "time": "2022-07-09T08:38:22+00:00"
         },
         {
             "name": "sabre/uri",
