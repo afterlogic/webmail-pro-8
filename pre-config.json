@@ -5,7 +5,8 @@
 	"modules": {
 		"Core": {
 			"SiteName": "Afterlogic WebMail Pro PHP",
-			"ProductName": "Afterlogic WebMail Pro PHP"
+			"ProductName": "Afterlogic WebMail Pro PHP",
+			"EnableFailedLoginBlock": true
 		},
 		"CoreWebclient": {
 			"HeaderModulesOrder": ["mail", "contacts"],
