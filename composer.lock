@@ -28,15 +28,15 @@
         },
         {
             "name": "afterlogic/aurora-framework",
-            "version": "0.10.58",
+            "version": "0.10.59",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-framework",
-                "reference": "tags/0.10.58"
+                "reference": "tags/0.10.59"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.58.zip"
+                "url": "https://github.com/afterlogic/aurora-framework/archive/0.10.59.zip"
             },
             "require": {
                 "afterlogic/mailso": "^1.4",
@@ -58,7 +58,7 @@
                     "Installer.php"
                 ]
             },
-            "time": "2022-07-15T12:17:59+00:00"
+            "time": "2022-07-21T08:49:51+00:00"
         },
         {
             "name": "afterlogic/aurora-module-activeserver",
@@ -150,15 +150,15 @@
         },
         {
             "name": "afterlogic/aurora-module-calendar",
-            "version": "0.10.26",
+            "version": "0.10.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-calendar",
-                "reference": "tags/0.10.26"
+                "reference": "tags/0.10.27"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-calendar/archive/0.10.26.zip"
+                "url": "https://github.com/afterlogic/aurora-module-calendar/archive/0.10.27.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -169,7 +169,7 @@
             "extra": {
                 "installer-name": "Calendar"
             },
-            "time": "2022-07-14T09:23:11+00:00"
+            "time": "2022-07-20T14:26:18+00:00"
         },
         {
             "name": "afterlogic/aurora-module-calendar-meetings-plugin",
@@ -219,15 +219,15 @@
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.10.69",
+            "version": "0.10.70",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.10.69"
+                "reference": "tags/0.10.70"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.69.zip"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.70.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -237,7 +237,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2022-07-11T12:28:02+00:00"
+            "time": "2022-07-21T08:49:07+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -588,15 +588,15 @@
         },
         {
             "name": "afterlogic/aurora-module-mail",
-            "version": "0.10.76",
+            "version": "0.10.80",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-mail",
-                "reference": "tags/0.10.76"
+                "reference": "tags/0.10.80"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.10.76.zip"
+                "url": "https://github.com/afterlogic/aurora-module-mail/archive/0.10.80.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -608,7 +608,7 @@
             "extra": {
                 "installer-name": "Mail"
             },
-            "time": "2022-07-14T09:43:02+00:00"
+            "time": "2022-07-21T09:04:04+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mail-auth-cpanel",
@@ -2063,16 +2063,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.231.8",
+            "version": "3.231.10",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "99b3e4585ac82a6e9ab6d1944d90231456fefbea"
+                "reference": "e46b7c5fcb70fadf38079755982cc1d3f0583c41"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/99b3e4585ac82a6e9ab6d1944d90231456fefbea",
-                "reference": "99b3e4585ac82a6e9ab6d1944d90231456fefbea",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/e46b7c5fcb70fadf38079755982cc1d3f0583c41",
+                "reference": "e46b7c5fcb70fadf38079755982cc1d3f0583c41",
                 "shasum": ""
             },
             "require": {
@@ -2149,9 +2149,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.231.8"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.231.10"
             },
-            "time": "2022-07-18T18:20:47+00:00"
+            "time": "2022-07-20T18:17:18+00:00"
         },
         {
             "name": "composer/installers",
