@@ -219,15 +219,15 @@
         },
         {
             "name": "afterlogic/aurora-module-core",
-            "version": "0.10.74",
+            "version": "0.10.75",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-core",
-                "reference": "tags/0.10.74"
+                "reference": "tags/0.10.75"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.74.zip"
+                "url": "https://github.com/afterlogic/aurora-module-core/archive/0.10.75.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -237,7 +237,7 @@
             "extra": {
                 "installer-name": "Core"
             },
-            "time": "2022-09-02T09:01:14+00:00"
+            "time": "2022-09-12T06:35:51+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core-extender",
@@ -1101,15 +1101,15 @@
         },
         {
             "name": "afterlogic/aurora-module-personalfiles",
-            "version": "0.10.25",
+            "version": "0.10.26",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-personalfiles",
-                "reference": "tags/0.10.25"
+                "reference": "tags/0.10.26"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-personalfiles/archive/0.10.25.zip"
+                "url": "https://github.com/afterlogic/aurora-module-personalfiles/archive/0.10.26.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1122,19 +1122,19 @@
             "extra": {
                 "installer-name": "PersonalFiles"
             },
-            "time": "2022-07-14T09:22:38+00:00"
+            "time": "2022-09-10T20:54:22+00:00"
         },
         {
             "name": "afterlogic/aurora-module-s3-filestorage",
-            "version": "0.10.22",
+            "version": "0.10.23",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-s3-filestorage",
-                "reference": "tags/0.10.22"
+                "reference": "tags/0.10.23"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-s3-filestorage/archive/0.10.22.zip"
+                "url": "https://github.com/afterlogic/aurora-module-s3-filestorage/archive/0.10.23.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1145,19 +1145,19 @@
             "extra": {
                 "installer-name": "S3Filestorage"
             },
-            "time": "2022-08-16T13:45:05+00:00"
+            "time": "2022-09-10T20:35:49+00:00"
         },
         {
             "name": "afterlogic/aurora-module-tasks",
-            "version": "0.10.3",
+            "version": "0.10.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-tasks",
-                "reference": "tags/0.10.3"
+                "reference": "tags/0.10.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-tasks/archive/0.10.3.zip"
+                "url": "https://github.com/afterlogic/aurora-module-tasks/archive/0.10.4.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1167,7 +1167,7 @@
             "extra": {
                 "installer-name": "Tasks"
             },
-            "time": "2022-04-20T12:00:14+00:00"
+            "time": "2022-09-10T20:36:51+00:00"
         },
         {
             "name": "afterlogic/aurora-module-two-factor-auth",
@@ -1239,15 +1239,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-calendar",
-            "version": "0.10.38",
+            "version": "0.10.39",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-calendar",
-                "reference": "tags/0.10.38"
+                "reference": "tags/0.10.39"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.38.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.39.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0"
@@ -1256,7 +1256,7 @@
             "extra": {
                 "installer-name": "CalendarWebclient"
             },
-            "time": "2022-08-23T07:11:30+00:00"
+            "time": "2022-09-11T10:23:48+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-change-password",
@@ -1304,15 +1304,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-core",
-            "version": "0.10.64",
+            "version": "0.10.65",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-core",
-                "reference": "tags/0.10.64"
+                "reference": "tags/0.10.65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.64.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-core/archive/0.10.65.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1322,7 +1322,7 @@
             "extra": {
                 "installer-name": "CoreWebclient"
             },
-            "time": "2022-08-26T09:45:50+00:00"
+            "time": "2022-09-11T10:24:50+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-core-paranoid-encryption-plugin",
@@ -1788,15 +1788,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-recaptcha-plugin",
-            "version": "0.10.2",
+            "version": "0.10.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-recaptcha-plugin",
-                "reference": "tags/0.10.2"
+                "reference": "tags/0.10.3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-recaptcha-plugin/archive/0.10.2.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-recaptcha-plugin/archive/0.10.3.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1807,7 +1807,7 @@
             "extra": {
                 "installer-name": "RecaptchaWebclientPlugin"
             },
-            "time": "2022-06-23T13:05:12+00:00"
+            "time": "2022-09-10T20:51:24+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-session-timeout",
@@ -2085,16 +2085,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.235.4",
+            "version": "3.235.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "4adc3ba34f1666c13a2a35894e225bd47e8af7c4"
+                "reference": "3b002b92369dbcb8d86f32546cb324eabcd19a4e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/4adc3ba34f1666c13a2a35894e225bd47e8af7c4",
-                "reference": "4adc3ba34f1666c13a2a35894e225bd47e8af7c4",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/3b002b92369dbcb8d86f32546cb324eabcd19a4e",
+                "reference": "3b002b92369dbcb8d86f32546cb324eabcd19a4e",
                 "shasum": ""
             },
             "require": {
@@ -2171,9 +2171,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.235.4"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.235.5"
             },
-            "time": "2022-09-08T18:49:27+00:00"
+            "time": "2022-09-09T18:19:38+00:00"
         },
         {
             "name": "composer/installers",
