@@ -164,5 +164,8 @@
 			"system/": ["type:aurora-framework"],
 			"dev/": ["type:aurora-dev-tools"]
 		}
+	},
+	"require-dev": {
+		"phpstan/phpstan": "^1.9"
 	}
 }
