@@ -15,3 +15,4 @@
 /_composer_cache
 /*.zip
 .vscode/
+.php-cs-fixer.cache
