@@ -1417,15 +1417,15 @@
         },
         {
             "name": "afterlogic/aurora-module-tasks",
-            "version": "0.10.8",
+            "version": "0.10.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-tasks",
-                "reference": "tags/0.10.8"
+                "reference": "tags/0.10.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-tasks/archive/0.10.8.zip"
+                "url": "https://github.com/afterlogic/aurora-module-tasks/archive/0.10.9.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -1440,7 +1440,7 @@
                     "/"
                 ]
             },
-            "time": "2023-01-27T12:43:48+00:00"
+            "time": "2023-03-01T14:39:28+00:00"
         },
         {
             "name": "afterlogic/aurora-module-two-factor-auth",
