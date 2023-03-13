@@ -111,6 +111,8 @@
 		"afterlogic/aurora-module-calendar-meetings-plugin": "~0.10.0",
 		"afterlogic/aurora-module-two-factor-auth": "~0.10.0",
 		"afterlogic/aurora-module-cpanel-integrator": "~0.10.0",
+		"afterlogic/aurora-module-mail-signup-directadmin": "~0.10.0",
+		"afterlogic/aurora-module-mail-signup-plesk": "~0.10.0",
 		"afterlogic/aurora-module-webclient-mail-signup": "~0.10.0",
 		"afterlogic/aurora-module-import-export-mail-plugin": "~0.10.0",
 		"afterlogic/aurora-module-webclient-recaptcha-plugin": "~0.10.0",
