@@ -58,7 +58,7 @@
 		"afterlogic/aurora-module-personal-contacts": "~0.10.0",
 		"afterlogic/aurora-module-core": "~0.10.0",
 		"afterlogic/aurora-module-core-extender": "~0.10.0",
-		"afterlogic/aurora-module-webclient-core": "~0.10.0",
+		"afterlogic/aurora-module-webclient-core": "~0.10.93",
 		"afterlogic/aurora-module-mobile-webclient-core": "~0.10.0",
 		"afterlogic/aurora-module-dav": "~0.10.0",
 		"afterlogic/aurora-module-dav-contacts": "~0.10.0",
@@ -67,7 +67,7 @@
 		"afterlogic/aurora-module-dropbox-filestorage": "~0.10.0",
 		"afterlogic/aurora-module-facebook": "~0.10.0",
 		"afterlogic/aurora-module-webclient-facebook-auth": "~0.10.0",
-		"afterlogic/aurora-module-google": "~0.10.0",
+		"afterlogic/aurora-module-google": "^0.10.10",
 		"afterlogic/aurora-module-googledrive": "~0.10.0",
 		"afterlogic/aurora-module-files": "~0.10.0",
 		"afterlogic/aurora-module-personalfiles": "~0.10.0",
@@ -83,7 +83,7 @@
 		"afterlogic/aurora-module-licensing": "~0.10.0",
 		"afterlogic/aurora-module-webclient-licensing": "~0.10.0",
 		"afterlogic/aurora-module-webclient-mail-sensitivity-plugin": "~0.10.0",
-		"afterlogic/aurora-module-webclient-mail": "~0.10.0",
+		"afterlogic/aurora-module-webclient-mail": "~0.10.96",
 		"afterlogic/aurora-module-mobile-webclient-mail": "~0.10.0",
 		"afterlogic/aurora-module-webclient-mail-tnef-plugin": "~0.10.0",
 		"afterlogic/aurora-module-webclient-mail-zip-plugin": "~0.10.0",
@@ -133,7 +133,6 @@
 		"afterlogic/dav": "~4.0.0",
 		"afterlogic/aurora-module-mail-scheduled-messages": "~0.10.0",
 		"afterlogic/aurora-module-standard-reset-password": "~0.10.0"
-		
 	},
 	"scripts": {
 		"post-install-cmd": [
