@@ -16,3 +16,4 @@
 /*.zip
 .vscode/
 .php-cs-fixer.cache
+.env
