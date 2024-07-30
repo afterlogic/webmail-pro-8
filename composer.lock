@@ -1476,12 +1476,12 @@
             "version": "0.10.28",
             "source": {
                 "type": "git",
-                "url": "https://github.com/afterlogic/aurora-module-standard-reset-password",
+                "url": "https://github.com/afterlogic/aurora-module-webclient-standard-reset-password",
                 "reference": "tags/0.10.28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-standard-reset-password/archive/0.10.28.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-standard-reset-password/archive/0.10.28.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -2543,16 +2543,16 @@
         },
         {
             "name": "afterlogic/mailso",
-            "version": "1.5.67",
+            "version": "1.5.68",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/MailSo.git",
-                "reference": "65807fd74a183fa8a554797fecdba56261d515ce"
+                "reference": "2409c27217fe0ff2260b76f0e2635abaac8909e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/afterlogic/MailSo/zipball/65807fd74a183fa8a554797fecdba56261d515ce",
-                "reference": "65807fd74a183fa8a554797fecdba56261d515ce",
+                "url": "https://api.github.com/repos/afterlogic/MailSo/zipball/2409c27217fe0ff2260b76f0e2635abaac8909e4",
+                "reference": "2409c27217fe0ff2260b76f0e2635abaac8909e4",
                 "shasum": ""
             },
             "require": {
@@ -2582,9 +2582,9 @@
             "homepage": "https://github.com/afterlogic/mailso",
             "support": {
                 "issues": "https://github.com/afterlogic/MailSo/issues",
-                "source": "https://github.com/afterlogic/MailSo/tree/1.5.67"
+                "source": "https://github.com/afterlogic/MailSo/tree/1.5.68"
             },
-            "time": "2024-03-29T14:19:04+00:00"
+            "time": "2024-07-19T10:47:43+00:00"
         },
         {
             "name": "aws/aws-crt-php",
