@@ -230,15 +230,15 @@
         },
         {
             "name": "afterlogic/aurora-module-contacts",
-            "version": "0.10.132",
+            "version": "0.10.133",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-contacts",
-                "reference": "tags/0.10.132"
+                "reference": "tags/0.10.133"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.132.zip"
+                "url": "https://github.com/afterlogic/aurora-module-contacts/archive/0.10.133.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -254,7 +254,7 @@
                     "/"
                 ]
             },
-            "time": "2024-12-20T18:36:59+00:00"
+            "time": "2024-12-24T12:39:54+00:00"
         },
         {
             "name": "afterlogic/aurora-module-core",
@@ -2232,15 +2232,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp",
-            "version": "0.10.48",
+            "version": "0.10.49",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp",
-                "reference": "tags/0.10.48"
+                "reference": "tags/0.10.49"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp/archive/0.10.48.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-openpgp/archive/0.10.49.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0",
@@ -2255,7 +2255,7 @@
                     "/"
                 ]
             },
-            "time": "2024-08-23T10:25:42+00:00"
+            "time": "2024-12-24T18:16:03+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-openpgp-files",
@@ -2642,16 +2642,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.336.2",
+            "version": "3.336.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "954bfdfc048840ca34afe2a2e1cbcff6681989c4"
+                "reference": "b863c7953ebeeae191c3835bb5413f872cfbb753"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/954bfdfc048840ca34afe2a2e1cbcff6681989c4",
-                "reference": "954bfdfc048840ca34afe2a2e1cbcff6681989c4",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/b863c7953ebeeae191c3835bb5413f872cfbb753",
+                "reference": "b863c7953ebeeae191c3835bb5413f872cfbb753",
                 "shasum": ""
             },
             "require": {
@@ -2734,9 +2734,9 @@
             "support": {
                 "forum": "https://forums.aws.amazon.com/forum.jspa?forumID=80",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.336.2"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.336.3"
             },
-            "time": "2024-12-20T19:05:10+00:00"
+            "time": "2024-12-23T19:13:29+00:00"
         },
         {
             "name": "barryvdh/laravel-ide-helper",
