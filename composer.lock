@@ -1612,15 +1612,15 @@
         },
         {
             "name": "afterlogic/aurora-module-webclient-calendar",
-            "version": "0.10.85",
+            "version": "0.10.87",
             "source": {
                 "type": "git",
                 "url": "https://github.com/afterlogic/aurora-module-webclient-calendar",
-                "reference": "tags/0.10.85"
+                "reference": "tags/0.10.87"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.85.zip"
+                "url": "https://github.com/afterlogic/aurora-module-webclient-calendar/archive/0.10.87.zip"
             },
             "require": {
                 "afterlogic/aurora-framework": "~0.10.0 || dev-master",
@@ -1635,7 +1635,7 @@
                     "/"
                 ]
             },
-            "time": "2025-07-24T14:56:27+00:00"
+            "time": "2025-10-13T10:27:37+00:00"
         },
         {
             "name": "afterlogic/aurora-module-webclient-change-password",
