@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "98ef4876953d5a0c131568e5715c929a",
+    "content-hash": "2b3fd04ec6e5f63bedf394103cd1a825",
     "packages": [
         {
             "name": "afterlogic/aurora-dev-tools",
@@ -1250,6 +1250,28 @@
                 ]
             },
             "time": "2026-08-13T11:25:08+00:00"
+        },
+        {
+            "name": "afterlogic/aurora-module-mobile-webclient-openpgp-files",
+            "version": "0.10.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-openpgp-files",
+                "reference": "tags/0.10.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/afterlogic/aurora-module-mobile-webclient-openpgp-files/archive/0.10.1.zip"
+            },
+            "require": {
+                "afterlogic/aurora-framework": "~0.10.0 || dev-master",
+                "php": ">=5.4.0"
+            },
+            "type": "aurora-module",
+            "extra": {
+                "installer-name": "OpenPgpFilesMobileWebclient"
+            },
+            "time": "2026-08-14T09:21:15+00:00"
         },
         {
             "name": "afterlogic/aurora-module-mobile-webclient-settings",
