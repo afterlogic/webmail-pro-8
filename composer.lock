@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "2b3fd04ec6e5f63bedf394103cd1a825",
+    "content-hash": "8a5b1b34b5248e8899d2e8fecebd5707",
     "packages": [
         {
             "name": "afterlogic/aurora-dev-tools",
@@ -339,6 +339,28 @@
                 ]
             },
             "time": "2025-03-31T12:17:44+00:00"
+        },
+        {
+            "name": "afterlogic/aurora-module-custom-mail-headers-reader",
+            "version": "0.10.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/afterlogic/custom-mail-headers-reader",
+                "reference": "tags/0.10.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://github.com/afterlogic/custom-mail-headers-reader/archive/0.10.1.zip"
+            },
+            "require": {
+                "afterlogic/aurora-framework": "~0.10.0 || dev-master",
+                "php": ">=5.4.0"
+            },
+            "type": "aurora-module",
+            "extra": {
+                "installer-name": "CustomMailHeadersReader"
+            },
+            "time": "2026-07-09T12:32:57+00:00"
         },
         {
             "name": "afterlogic/aurora-module-dav",
