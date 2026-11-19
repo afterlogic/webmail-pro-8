@@ -1,4 +1,5 @@
 RewriteEngine on
+RewriteRule ^modules(?:/|$) - [F,NC]
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization},L]
 
 <Files *config.json*>
